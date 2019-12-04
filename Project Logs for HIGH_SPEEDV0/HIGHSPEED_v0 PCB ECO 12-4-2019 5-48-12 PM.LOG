@@ -1,0 +1,5 @@
+Added Component: Designator=YW(SiT1533-C)
+Added Pin To Net: NetName=GND Pin=YW-2
+Added Pin To Net: NetName=DVDD Pin=YW-4
+Added Net: Name=DVDD
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component YW SIT1533AC-H5-DCC-32.768E

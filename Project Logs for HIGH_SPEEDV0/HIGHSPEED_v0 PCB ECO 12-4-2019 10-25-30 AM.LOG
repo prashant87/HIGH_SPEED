@@ -1,0 +1,244 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=C80-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=C80-2
+Removed Pin From Net: NetName=GND Pin=Cd1-1
+Removed Pin From Net: NetName=GND Pin=Cd2-1
+Removed Pin From Net: NetName=GND Pin=Cn1-1
+Removed Pin From Net: NetName=GND Pin=Cn2-1
+Removed Pin From Net: NetName=GND Pin=Cn9-1
+Removed Pin From Net: NetName=NM1_REF Pin=CO4-33
+Removed Pin From Net: NetName=NM1_REF Pin=CO4-34
+Removed Pin From Net: NetName=VDD_2V5 Pin=R3-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=R4-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=R5-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Rd2-1
+Removed Pin From Net: NetName=GND Pin=Rd3-2
+Removed Pin From Net: NetName=N1_CLK_3V Pin=Rn1-2
+Removed Pin From Net: NetName=VDD_3V0 Pin=Rn2-2
+Removed Pin From Net: NetName=GND Pin=Rn3-2
+Removed Pin From Net: NetName=GND Pin=Rn4-1
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=GND Pin=U1-A6
+Removed Pin From Net: NetName=GND Pin=U1-A11
+Removed Pin From Net: NetName=GND Pin=U1-A16
+Removed Pin From Net: NetName=GND Pin=U1-A21
+Removed Pin From Net: NetName=GND Pin=U1-AA1
+Removed Pin From Net: NetName=GPIO1 Pin=U1-AA2
+Removed Pin From Net: NetName=TMS Pin=U1-AA3
+Removed Pin From Net: NetName=XTAL Pin=U1-AA4
+Removed Pin From Net: NetName=GND Pin=U1-AA12
+Removed Pin From Net: NetName=GND Pin=U1-AA14
+Removed Pin From Net: NetName=GND Pin=U1-AA16
+Removed Pin From Net: NetName=GND Pin=U1-AA18
+Removed Pin From Net: NetName=GND Pin=U1-AA20
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-B3
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-B8
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-B13
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-B18
+Removed Pin From Net: NetName=GND Pin=U1-D7
+Removed Pin From Net: NetName=GND Pin=U1-D12
+Removed Pin From Net: NetName=GND Pin=U1-D17
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-E2
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-E9
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-E14
+Removed Pin From Net: NetName=GND Pin=U1-F4
+Removed Pin From Net: NetName=GND Pin=U1-F21
+Removed Pin From Net: NetName=GND Pin=U1-G14
+Removed Pin From Net: NetName=GND Pin=U1-H1
+Removed Pin From Net: NetName=GND Pin=U1-H18
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-J5
+Removed Pin From Net: NetName=GND Pin=U1-J7
+Removed Pin From Net: NetName=GND Pin=U1-J9
+Removed Pin From Net: NetName=GND Pin=U1-J10
+Removed Pin From Net: NetName=GND Pin=U1-J11
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-J12
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-J13
+Removed Pin From Net: NetName=VDD_2V5 Pin=U1-K9
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-K10
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-K11
+Removed Pin From Net: NetName=GND Pin=U1-K12
+Removed Pin From Net: NetName=GND Pin=U1-K13
+Removed Pin From Net: NetName=GND Pin=U1-L4
+Removed Pin From Net: NetName=TCK Pin=U1-L9
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-L10
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-L11
+Removed Pin From Net: NetName=GND Pin=U1-L12
+Removed Pin From Net: NetName=GND Pin=U1-L13
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-M2
+Removed Pin From Net: NetName=VDD_2V5 Pin=U1-M7
+Removed Pin From Net: NetName=NSFRESET Pin=U1-M9
+Removed Pin From Net: NetName=GND Pin=U1-M10
+Removed Pin From Net: NetName=GND Pin=U1-M11
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-M12
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-M13
+Removed Pin From Net: NetName=GND Pin=U1-M17
+Removed Pin From Net: NetName=GND Pin=U1-M21
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-N5
+Removed Pin From Net: NetName=TDI Pin=U1-N9
+Removed Pin From Net: NetName=GND Pin=U1-N10
+Removed Pin From Net: NetName=GND Pin=U1-N11
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-N12
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-N13
+Removed Pin From Net: NetName=GND Pin=U1-P7
+Removed Pin From Net: NetName=GND Pin=U1-P15
+Removed Pin From Net: NetName=GND Pin=U1-R1
+Removed Pin From Net: NetName=TDOR Pin=U1-R7
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-R12
+Removed Pin From Net: NetName=VDD_1V2 Pin=U1-R13
+Removed Pin From Net: NetName=GPIO2 Pin=U1-T3
+Removed Pin From Net: NetName=GND Pin=U1-T4
+Removed Pin From Net: NetName=GND Pin=U1-T21
+Removed Pin From Net: NetName=GPIO3 Pin=U1-U4
+Removed Pin From Net: NetName=GND Pin=U1-U6
+Removed Pin From Net: NetName=GND Pin=U1-U7
+Removed Pin From Net: NetName=GND Pin=U1-U13
+Removed Pin From Net: NetName=GND Pin=U1-U16
+Removed Pin From Net: NetName=GPIO4 Pin=U1-V1
+Removed Pin From Net: NetName=VDD_1V8 Pin=U1-V2
+Removed Pin From Net: NetName=JTAGSEL Pin=U1-V4
+Removed Pin From Net: NetName=VDD_2V5 Pin=U1-V5
+Removed Pin From Net: NetName=VDD_2V5 Pin=U1-V12
+Removed Pin From Net: NetName=TRST Pin=U1-Y3
+Removed Pin From Net: NetName=EXTAL Pin=U1-Y4
+Removed Pin From Net: NetName=GND Pin=U1-Y6
+Removed Pin From Net: NetName=GND Pin=U1-Y12
+Removed Pin From Net: NetName=GND Pin=U1-Y14
+Removed Pin From Net: NetName=GND Pin=U1-Y16
+Removed Pin From Net: NetName=GND Pin=U1-Y18
+Removed Pin From Net: NetName=GND Pin=U1-Y20
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=VDD_3V0 Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=C2N1_V_I Pin=U4-7
+Removed Pin From Net: NetName=C2N1_D_I Pin=U4-8
+Removed Pin From Net: NetName=N12C_D_I Pin=U4-9
+Removed Pin From Net: NetName=NM1_REF Pin=U4-44
+Removed Pin From Net: NetName=GND Pin=U4-50
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C11
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C12
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C13
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C14
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C15
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C16
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C17
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C18
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C19
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C20
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C32
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C33
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C34
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C56
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C57
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C58
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C78
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C79
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=C80
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd1
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd2
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Cn1
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Cn2
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Cn9
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=CO3
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=CO4
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=R3
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=R4
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=R5
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Rd2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Rd3
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Rn1
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Rn2
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Rn3
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=Rn4
+Removed Member From Class: ClassName=FlexEMG_v0r0_NM Member=U4
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_14 Pin=Rc0-2
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U10-24
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U10-23
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetRnB_2 Pin=RnB-2
+Added Net: Name=NetRnB_2
+Added Pin To Net: NetName=NetRnC_2 Pin=RnC-2
+Added Net: Name=NetRnC_2
+Added Pin To Net: NetName=NetRr0_2 Pin=Rr0-2
+Added Pin To Net: NetName=NetRr0_2 Pin=U2-33
+Added Net: Name=NetRr0_2
+Added Pin To Net: NetName=NetRr1_2 Pin=Rr1-2
+Added Pin To Net: NetName=NetRr1_2 Pin=U2-31
+Added Net: Name=NetRr1_2
+Added Pin To Net: NetName=NetRr2_2 Pin=Rr2-2
+Added Pin To Net: NetName=NetRr2_2 Pin=U2-30
+Added Net: Name=NetRr2_2
+Added Pin To Net: NetName=NetRr3_2 Pin=Rr3-2
+Added Pin To Net: NetName=NetRr3_2 Pin=U2-38
+Added Net: Name=NetRr3_2
+Added Pin To Net: NetName=NetU2_19 Pin=U2-19
+Added Net: Name=NetU2_19
+Added Pin To Net: NetName=NetU2_20 Pin=U2-20
+Added Net: Name=NetU2_20
+Added Pin To Net: NetName=NetU2_58 Pin=U2-58
+Added Net: Name=NetU2_58
+Added Pin To Net: NetName=NetU2_59 Pin=U2-59
+Added Net: Name=NetU2_59
+Added Pin To Net: NetName=NetU3_D8 Pin=U3-D8
+Added Net: Name=NetU3_D8
+Added Pin To Net: NetName=NetU3_E8 Pin=U3-E8
+Added Net: Name=NetU3_E8
+Added Pin To Net: NetName=NetU3_J4 Pin=U3-J4
+Added Net: Name=NetU3_J4
+Added Pin To Net: NetName=NetU3_J5 Pin=U3-J5
+Added Net: Name=NetU3_J5
+Added Pin To Net: NetName=NetU10_1 Pin=U10-1
+Added Net: Name=NetU10_1
+Added Pin To Net: NetName=NetU10_12 Pin=U10-12
+Added Net: Name=NetU10_12
+Added Pin To Net: NetName=NetUn3_3 Pin=Un3-3
+Added Pin To Net: NetName=NetUn3_3 Pin=Un3-6
+Added Net: Name=NetUn3_3
+Added Pin To Net: NetName=NetUn5_C1 Pin=Un5-C1
+Added Net: Name=NetUn5_C1
+Change Class Name : Old Net Name=FlexEMG_v0r0_ACCEL New Net Name=HIGHSPEED__v0_ACCEL
+Change Class Name : Old Net Name=FlexEMG_v0r0_BATT-CHARGER New Net Name=HIGHSPEED_v0_BATT-CHARGER
+Change Class Name : Old Net Name=FlexEMG_v0r0_NM New Net Name=HIGHSPEED_v0_NM
+Change Class Name : Old Net Name=FlexEMG_v0r0_POWER-SUPPLIES New Net Name=HIGHSPEED_v0_POWER-SUPPLIES
+Change Class Name : Old Net Name=FlexEMG_v0r0_RADIO New Net Name=HIGHSPEED_v0_RADIO
+Change Class Name : Old Net Name=FlexEMG_v0r0_SF2-COMM New Net Name=HIGHSPEED_v0_SF2-COMM
+Change Class Name : Old Net Name=FlexEMG_v0r0_SF2-POWER New Net Name=HIGHSPEED_v0_SF2-POWER
+Change Class Name : Old Net Name=FlexEMG_v0r0_SF2_DDR New Net Name=HIGHSPEED_v0_SF2_DDR
+Added Room: Name=HIGHSPEED__v0_ACCEL
+Added Room: Name=HIGHSPEED_v0_BATT-CHARGER
+Added Room: Name=HIGHSPEED_v0_NM
+Added Room: Name=HIGHSPEED_v0_POWER-SUPPLIES
+Added Room: Name=HIGHSPEED_v0_RADIO
+Added Room: Name=HIGHSPEED_v0_SF2-COMM
+Added Room: Name=HIGHSPEED_v0_SF2-POWER
+Added Room: Name=HIGHSPEED_v0_SF2_DDR
