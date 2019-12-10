@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=P0.11 Pin=ADC1-35
+Change Net Name : Old Net Name=SPIM_0.SIO2 New Net Name=SPIM_SDIO2
+Change Net Name : Old Net Name=SPIM_0.SIO3 New Net Name=SPIM_SDIO3
+Added Pin To Net: NetName=CS# Pin=ADC1-39
+Added Pin To Net: NetName=CS# Pin=U1-38
+Added Pin To Net: NetName=CS# Pin=U3-17
+Added Net: Name=CS#
+Added Pin To Net: NetName=CS_NRF# Pin=U1-36
+Added Pin To Net: NetName=CS_NRF# Pin=U3-18
+Added Net: Name=CS_NRF#
+Added Pin To Net: NetName=MISO Pin=ADC1-43
+Added Pin To Net: NetName=MISO Pin=U1-33
+Added Pin To Net: NetName=MISO Pin=U3-20
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=ADC1-34
+Added Pin To Net: NetName=MOSI Pin=U1-31
+Added Pin To Net: NetName=MOSI Pin=U3-19
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=ADC1-40
+Added Pin To Net: NetName=SCK Pin=U1-30
+Added Pin To Net: NetName=SCK Pin=U3-16
+Added Net: Name=SCK
+Added Member To Class: ClassName=MRWOLF Member=Component U1 Mr. Wolf PULP

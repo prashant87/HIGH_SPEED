@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P0.07 Pin=PJ-1
+Removed Pin From Net: NetName=P0.07 Pin=U1-60
+Added Pin To Net: NetName=P0.27 Pin=PJ-1
+Added Pin To Net: NetName=P0.27 Pin=U1-60
+Added Member To Class: ClassName=BATTERY Member=Component CC? Cap Semi
+Added Member To Class: ClassName=BATTERY Member=Component R? 150K

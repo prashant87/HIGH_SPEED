@@ -1,0 +1,106 @@
+Added Component: Designator=CN1(CAPC1608X06L)
+Added Component: Designator=CN2(CAPC1608X06L)
+Added Component: Designator=CN3(CAPC1005X04L)
+Added Component: Designator=CN4(CAPC1005X04L)
+Added Component: Designator=CN5(CAPC1005X04L)
+Added Component: Designator=CN6(CAPC1608X06L)
+Added Component: Designator=CN7(CAPC1608X06L)
+Added Component: Designator=CN8(CAPC1005X04L)
+Added Component: Designator=CN9(CAPC1005X04L)
+Added Component: Designator=CN10(CAPC1005X04L)
+Added Component: Designator=CN11(CAPC1005X04L)
+Added Component: Designator=CN12(CAPC1005X04L)
+Added Component: Designator=CN13(CAPC1005X04L)
+Added Component: Designator=CN15(CAPC1005X04L)
+Added Component: Designator=CN16(CAPC1005X04L)
+Added Component: Designator=CN17(CAPC1005X04L)
+Added Component: Designator=CN18(CAPC1005X04L)
+Added Component: Designator=CN19(CAPC1005X04L)
+Added Component: Designator=CN20(CAPC1005X04L)
+Added Component: Designator=CN21(CAPC1608X06L)
+Added Component: Designator=CN22(CAPC1608X06L)
+Added Component: Designator=CW1(0402)
+Added Component: Designator=CW2(0402)
+Added Component: Designator=LN2(INDC1005X04L)
+Added Component: Designator=XN1(XTAL_3215)
+Added Component: Designator=XN2(BT-XTAL_2016)
+Added Pin To Net: NetName=VDD_NRF Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=VDD_HV Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=P0.00/XL1 Pin=CN3-1
+Added Pin To Net: NetName=GND Pin=CN3-2
+Added Pin To Net: NetName=P0.01/XL2 Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Pin To Net: NetName=DEC1 Pin=CN5-1
+Added Pin To Net: NetName=GND Pin=CN5-2
+Added Pin To Net: NetName=VDD_NRF Pin=CN6-1
+Added Pin To Net: NetName=GND Pin=CN6-2
+Added Pin To Net: NetName=GND Pin=CN7-1
+Added Pin To Net: NetName=DEC4_6 Pin=CN7-2
+Added Pin To Net: NetName=DEC4_6 Pin=CN8-1
+Added Pin To Net: NetName=GND Pin=CN8-2
+Added Pin To Net: NetName=NetCN9_1 Pin=CN9-1
+Added Pin To Net: NetName=GND Pin=CN9-2
+Added Pin To Net: NetName=VDD_NRF Pin=CN10-1
+Added Pin To Net: NetName=GND Pin=CN10-2
+Added Pin To Net: NetName=XC2 Pin=CN11-1
+Added Pin To Net: NetName=GND Pin=CN11-2
+Added Pin To Net: NetName=XC1 Pin=CN12-1
+Added Pin To Net: NetName=GND Pin=CN12-2
+Added Pin To Net: NetName=DEC3 Pin=CN13-1
+Added Pin To Net: NetName=GND Pin=CN13-2
+Added Pin To Net: NetName=GND Pin=CN15-1
+Added Pin To Net: NetName=NetCN15_2 Pin=CN15-2
+Added Pin To Net: NetName=GND Pin=CN16-1
+Added Pin To Net: NetName=RF Pin=CN16-2
+Added Pin To Net: NetName=RF Pin=CN17-1
+Added Pin To Net: NetName=GND Pin=CN17-2
+Added Pin To Net: NetName=NetCN18_1 Pin=CN18-1
+Added Pin To Net: NetName=GND Pin=CN18-2
+Added Pin To Net: NetName=VDD_NRF Pin=CN19-1
+Added Pin To Net: NetName=GND Pin=CN19-2
+Added Pin To Net: NetName=VDD_NRF Pin=CN20-1
+Added Pin To Net: NetName=GND Pin=CN20-2
+Added Pin To Net: NetName=VBUS Pin=CN21-1
+Added Pin To Net: NetName=GND Pin=CN21-2
+Added Pin To Net: NetName=NetCN22_1 Pin=CN22-1
+Added Pin To Net: NetName=GND Pin=CN22-2
+Added Pin To Net: NetName=GND Pin=CW1-1
+Added Pin To Net: NetName=VREG Pin=CW1-2
+Added Pin To Net: NetName=GND Pin=CW2-1
+Added Pin To Net: NetName=VREG Pin=CW2-2
+Added Pin To Net: NetName=DEC4_6 Pin=LN2-1
+Added Pin To Net: NetName=NetLN2_2 Pin=LN2-2
+Added Pin To Net: NetName=P0.00/XL1 Pin=XN1-1
+Added Pin To Net: NetName=P0.01/XL2 Pin=XN1-2
+Added Pin To Net: NetName=XC1 Pin=XN2-1
+Added Pin To Net: NetName=GND Pin=XN2-2
+Added Pin To Net: NetName=XC2 Pin=XN2-3
+Added Pin To Net: NetName=GND Pin=XN2-4
+Added Member To Class: ClassName=NRF Member=Component CN1 4.7µF
+Added Member To Class: ClassName=NRF Member=Component CN2 4.7µF
+Added Member To Class: ClassName=NRF Member=Component CN3 12pF
+Added Member To Class: ClassName=NRF Member=Component CN4 12pF
+Added Member To Class: ClassName=NRF Member=Component CN5 100nF
+Added Member To Class: ClassName=NRF Member=Component CN6 1.0µF
+Added Member To Class: ClassName=NRF Member=Component CN7 1.0µF
+Added Member To Class: ClassName=NRF Member=Component CN8 47nF
+Added Member To Class: ClassName=NRF Member=Component CN9 N.C.
+Added Member To Class: ClassName=NRF Member=Component CN10 100nF
+Added Member To Class: ClassName=NRF Member=Component CN11 12pF
+Added Member To Class: ClassName=NRF Member=Component CN12 12pF
+Added Member To Class: ClassName=NRF Member=Component CN13 100pF
+Added Member To Class: ClassName=NRF Member=Component CN15 1.0pF
+Added Member To Class: ClassName=NRF Member=Component CN16 1.0pF
+Added Member To Class: ClassName=NRF Member=Component CN17 N.C.
+Added Member To Class: ClassName=NRF Member=Component CN18 820pF
+Added Member To Class: ClassName=NRF Member=Component CN19 100nF
+Added Member To Class: ClassName=NRF Member=Component CN20 100nF
+Added Member To Class: ClassName=NRF Member=Component CN21 4.7µF
+Added Member To Class: ClassName=NRF Member=Component CN22 4.7µF
+Added Member To Class: ClassName=MRWOLF Member=Component CW1 4.7uF
+Added Member To Class: ClassName=MRWOLF Member=Component CW2 100nF
+Added Member To Class: ClassName=NRF Member=Component LN2 15nH
+Added Member To Class: ClassName=NRF Member=Component XN1 32.768kHz
+Added Member To Class: ClassName=NRF Member=Component XN2 32MHz

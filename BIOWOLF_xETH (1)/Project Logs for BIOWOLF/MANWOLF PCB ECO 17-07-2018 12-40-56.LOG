@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=NetPW1_16 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetPW1_1 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=NetPW1_12 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=VBAT Pin=R4-2
+Removed Pin From Net: NetName=P0.02/AIN0 Pin=R9-1
+Removed Pin From Net: NetName=DVDD Pin=R9-2
+Removed Pin From Net: NetName=P0.03/AIN1 Pin=R10-1
+Removed Pin From Net: NetName=DVDD Pin=R10-2
+Removed Pin From Net: NetName=VBAT Pin=R11-1
+Removed Pin From Net: NetName=BAT_IN Pin=R11-2
+Removed Member From Class: ClassName=BATTERY Member=R1
+Removed Member From Class: ClassName=BATTERY Member=R2
+Removed Member From Class: ClassName=BATTERY Member=R3
+Removed Member From Class: ClassName=BATTERY Member=R4
+Removed Member From Class: ClassName=BATTERY Member=R9
+Removed Member From Class: ClassName=BATTERY Member=R10
+Removed Member From Class: ClassName=BATTERY Member=R11
+Change Component Footprint: Designator=CC16 Old Footprint=0402 New Footprint=1608[0603]
+Change Component Footprint: Designator=CC1 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=CC2 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=CP1 Old Footprint=1608[0603] New Footprint=0402
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Component: Designator=R?(0402)
+Added Pin To Net: NetName=BAT_IN Pin=R?-1
+Added Pin To Net: NetName=DVDD Pin=R?-1
+Added Pin To Net: NetName=DVDD Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetPW1_16 Pin=R?-1
+Added Pin To Net: NetName=P0.04/AIN2 Pin=R?-1
+Added Pin To Net: NetName=P0.05/AIN2 Pin=R?-1
+Added Pin To Net: NetName=VBAT Pin=R?-1
+Added Pin To Net: NetName=DVDD Pin=R?-2
+Added Pin To Net: NetName=DVDD Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetPW1_1 Pin=R?-2
+Added Pin To Net: NetName=NetPW1_12 Pin=R?-2
+Added Pin To Net: NetName=P0.02/AIN0 Pin=R?-2
+Added Pin To Net: NetName=P0.03/AIN1 Pin=R?-2
+Added Pin To Net: NetName=VBAT Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=S1-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=BATTERY Member=Component R? 100K
+Added Member To Class: ClassName=BATTERY Member=Component R? 0.01
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=BATTERY Member=Component R? 1.1K
+Added Member To Class: ClassName=BATTERY Member=Component R? 590
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K

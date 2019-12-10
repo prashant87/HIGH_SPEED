@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=CAM.PCLK Pin=R34-2
+Removed Pin From Net: NetName=CAM.HSYNC Pin=R35-2
+Removed Pin From Net: NetName=P0.10 Pin=U1-34
+Removed Pin From Net: NetName=P0.09 Pin=U1-35
+Removed Pin From Net: NetName=CAM.HSYNC Pin=U3-22
+Removed Pin From Net: NetName=CAM.PCLK Pin=U3-23
+Removed Member From Class: ClassName=01_MRWOLF Member=D1
+Removed Member From Class: ClassName=01_MRWOLF Member=D2
+Removed Member From Class: ClassName=01_MRWOLF Member=R34
+Removed Member From Class: ClassName=01_MRWOLF Member=R35
+Change Component Comment : Designator=RVAVDD Old Comment= New Comment=1
+Change Component Comment : Designator=RVBAT Old Comment= New Comment=1
+Change Component Comment : Designator=RVDVDD Old Comment= New Comment=1
+Change Component Comment : Designator=RVSP Old Comment= New Comment=1
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=1M
+Change Component Comment : Designator=R12 Old Comment=10K New Comment=1M
+Change Component Comment : Designator=R36 Old Comment=100K New Comment=NC
+Change Component Comment : Designator=R37 Old Comment=100K New Comment=NC
+Change Component Comment : Designator=CC3 Old Comment=Cap Semi New Comment=0.47UF
+Change Component Comment : Designator=CC4 Old Comment=Cap Semi New Comment=1UF
+Change Component Comment : Designator=CC7 Old Comment=Cap Semi New Comment=1uF
+Change Component Comment : Designator=CP1 Old Comment=Cap Semi New Comment=1uF
+Change Component Comment : Designator=CC22 Old Comment=Cap Semi New Comment=4.7uF
+Change Component Comment : Designator=CC24 Old Comment=Cap Semi New Comment=4.7uF
+Change Component Comment : Designator=CC25 Old Comment=Cap Semi New Comment=10nF
+Change Component Comment : Designator=CC2 Old Comment=Cap Semi New Comment=10uF
+Change Component Comment : Designator=CC1 Old Comment=Cap Semi New Comment=22uF
+Change Component Comment : Designator=CC6 Old Comment=Cap Semi New Comment=100nF
+Change Component Comment : Designator=CC23 Old Comment=Cap Semi New Comment=100nF
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=LQH3NPZ220MJRL
+Change Component Comment : Designator=U2 Old Comment=LT1790 New Comment=LT1790-2p048
+Change Component Designator: OldDesignator=R14 NewDesignator=0.01
+Added Pin To Net: NetName=P0.07 Pin=R34-2
+Added Pin To Net: NetName=P0.08 Pin=R35-2
+Added Pin To Net: NetName=CAM.PCLK Pin=U3-22
+Added Pin To Net: NetName=CAM.HSYNC Pin=U3-23
+Added Pin To Net: NetName=SPIM_SDIO2 Pin=U1-34
+Added Net: Name=SPIM_SDIO2
+Added Pin To Net: NetName=SPIM_SDIO3 Pin=U1-35
+Added Net: Name=SPIM_SDIO3
+Added Member To Class: ClassName=02_NRF52832 Member=Component D1 LED Red
+Added Member To Class: ClassName=02_NRF52832 Member=Component D2 LED Orange
+Added Member To Class: ClassName=02_NRF52832 Member=Component R34 
+Added Member To Class: ClassName=02_NRF52832 Member=Component R35 

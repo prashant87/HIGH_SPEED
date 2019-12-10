@@ -1,0 +1,3 @@
+Remove Pin=SW-3 From Net=P0.21/Reset
+Remove Pin=SW-4 From Net=SWDCLK
+Remove Pin=SW-5 From Net=SWDIO

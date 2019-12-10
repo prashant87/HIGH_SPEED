@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=CC1-1
+Removed Pin From Net: NetName=ELM1 Pin=R3-1
+Removed Pin From Net: NetName=REF1.5V Pin=R3-2
+Removed Pin From Net: NetName=ELM2 Pin=R6-1
+Removed Pin From Net: NetName=REF1.5V Pin=R6-2
+Removed Pin From Net: NetName=ELM3 Pin=R9-1
+Removed Pin From Net: NetName=REF1.5V Pin=R9-2
+Removed Pin From Net: NetName=ELM4 Pin=R20-1
+Removed Pin From Net: NetName=REF1.5V Pin=R20-2
+Removed Pin From Net: NetName=ELM5 Pin=R24-1
+Removed Pin From Net: NetName=REF1.5V Pin=R24-2
+Removed Pin From Net: NetName=ELM6 Pin=R27-1
+Removed Pin From Net: NetName=REF1.5V Pin=R27-2
+Removed Pin From Net: NetName=ELM7 Pin=R30-1
+Removed Pin From Net: NetName=REF1.5V Pin=R30-2
+Removed Pin From Net: NetName=ELM8 Pin=R33-1
+Removed Pin From Net: NetName=REF1.5V Pin=R33-2
+Removed Member From Class: ClassName=04_POWER Member=CC1
+Removed Member From Class: ClassName=03_ANALOG Member=R3
+Removed Member From Class: ClassName=03_ANALOG Member=R6
+Removed Member From Class: ClassName=03_ANALOG Member=R9
+Removed Member From Class: ClassName=03_ANALOG Member=R20
+Removed Member From Class: ClassName=03_ANALOG Member=R24
+Removed Member From Class: ClassName=03_ANALOG Member=R27
+Removed Member From Class: ClassName=03_ANALOG Member=R30
+Removed Member From Class: ClassName=03_ANALOG Member=R33
+Change Net Name : Old Net Name=VSYS New Net Name=VSTOR
+Added Room: Name=01_MRWOLF
+Added Room: Name=02_NRF52832
+Added Room: Name=03_ANALOG
+Added Room: Name=04_POWER

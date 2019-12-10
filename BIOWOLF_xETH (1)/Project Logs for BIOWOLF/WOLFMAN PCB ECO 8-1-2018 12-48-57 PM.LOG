@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=ADC1-33
+Added Pin To Net: NetName=GND Pin=ADC1-38
+Added Pin To Net: NetName=GND Pin=ADC1-41
+Added Pin To Net: NetName=GND Pin=ADC1-49
+Added Pin To Net: NetName=GND Pin=ADC1-51
+Added Pin To Net: NetName=GND Pin=CC6-1
+Added Pin To Net: NetName=GND Pin=CC7-1
+Change Net Name : Old Net Name=GND New Net Name=DGND
+Added Member To Class: ClassName=03_ANALOG Member=Component ADC1 ADS1298
+Added Member To Class: ClassName=01_MRWOLF Member=Component U1 Mr. Wolf PULP

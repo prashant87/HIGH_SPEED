@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=P0.28/AIN4 Pin=PW1-7
+Removed Pin From Net: NetName=P0.27 Pin=PW1-9
+Removed Pin From Net: NetName=P0.31/AIN7 Pin=PW2-1
+Removed Pin From Net: NetName=P0.30/AIN6 Pin=PW2-2
+Removed Pin From Net: NetName=P0.27 Pin=R4-1
+Removed Pin From Net: NetName=P0.28/AIN4 Pin=R10-1
+Removed Pin From Net: NetName=P0.31/AIN7 Pin=R11-2
+Removed Pin From Net: NetName=P0.30/AIN6 Pin=R12-2
+Added Pin To Net: NetName=P0.27 Pin=PW1-7
+Added Pin To Net: NetName=P0.28/AIN4 Pin=PW1-9
+Added Pin To Net: NetName=P0.30/AIN6 Pin=PW2-1
+Added Pin To Net: NetName=P0.31/AIN7 Pin=PW2-2
+Added Pin To Net: NetName=P0.28/AIN4 Pin=R4-1
+Added Pin To Net: NetName=P0.27 Pin=R10-1
+Added Pin To Net: NetName=P0.30/AIN6 Pin=R11-2
+Added Pin To Net: NetName=P0.31/AIN7 Pin=R12-2

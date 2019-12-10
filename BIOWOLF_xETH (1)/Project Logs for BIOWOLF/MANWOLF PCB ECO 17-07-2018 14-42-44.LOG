@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCK Pin=U3-16
+Removed Pin From Net: NetName=CS# Pin=U3-17
+Removed Pin From Net: NetName=CS_NRF# Pin=U3-18
+Removed Pin From Net: NetName=MISO Pin=U3-20
+Added Pin To Net: NetName=CS# Pin=U3-16
+Added Pin To Net: NetName=CS_NRF# Pin=U3-17
+Added Pin To Net: NetName=MISO Pin=U3-18
+Added Pin To Net: NetName=SCK Pin=U3-20
+Added Room: Name=ADC
+Added Room: Name=MRWOLF

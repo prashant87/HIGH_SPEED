@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=BOOTSEL Pin=YW-4
+Added Component: Designator=J1(JMP3)
+Added Component: Designator=S1(JS102011SAQN)
+Added Pin To Net: NetName=BOOTSEL Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=SYSOFF Pin=S1-2
+Added Pin To Net: NetName=NetR9_2 Pin=S1-3
+Added Pin To Net: NetName=V1.8 Pin=J1-1
+Added Pin To Net: NetName=V1.8 Pin=YW-4
+Added Net: Name=V1.8
+Added Member To Class: ClassName=MRWOLF Member=Component J1 JUMP3
+Added Member To Class: ClassName=POWER Member=Component S1 SW-SPDT
+Added Room: Name=ANALOG
+Added Room: Name=MRWOLF
+Added Room: Name=NRF52832
+Added Room: Name=POWER

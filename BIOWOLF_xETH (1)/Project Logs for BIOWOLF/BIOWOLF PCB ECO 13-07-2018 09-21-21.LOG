@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=AVDD Pin=U2-2
+Removed Pin From Net: NetName=AVDD Pin=U2-3
+Removed Pin From Net: NetName=AGND Pin=U2-4
+Change Component Footprint: Designator=U2 Old Footprint=SO-8_N New Footprint=SOT-23_A_N
+Change Component Comment : Designator=U2 Old Comment=REF193GS New Comment=LT1790
+Added Pin To Net: NetName=AGND Pin=U2-1
+Added Pin To Net: NetName=AGND Pin=U2-2
+Added Pin To Net: NetName=AVDD Pin=U2-4
+Change Net Name : Old Net Name=REF3V New Net Name=REF2V

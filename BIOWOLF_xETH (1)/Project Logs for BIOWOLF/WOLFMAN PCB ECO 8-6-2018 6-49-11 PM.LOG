@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=SW Old Footprint=MOLEX_5051100592 New Footprint=MOLEX_5051100692
+Change Component Comment : Designator=SW Old Comment=MOLEX_5051100592 New Comment=MOLEX_5051100692
+Added Pin To Net: NetName=DGND Pin=SW-6
+Added Member To Class: ClassName=02_NRF52832 Member=Component SW MOLEX_5051100692
+Added Room: Name=01_MRWOLF
+Added Room: Name=02_NRF52832
+Added Room: Name=03_ANALOG
+Added Room: Name=04_POWER

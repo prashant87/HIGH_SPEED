@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CAM.PCLK Pin=R34-2
+Removed Pin From Net: NetName=CAM.HSYNC Pin=R35-2
+Added Pin To Net: NetName=P0.19 Pin=R34-2
+Added Pin To Net: NetName=P0.19 Pin=U3-22
+Added Net: Name=P0.19
+Added Pin To Net: NetName=P0.20 Pin=R35-2
+Added Pin To Net: NetName=P0.20 Pin=U3-23
+Added Net: Name=P0.20

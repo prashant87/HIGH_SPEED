@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DVDD Pin=L?-1
+Removed Pin From Net: NetName=VSYS Pin=L?-2
+Removed Pin From Net: NetName=DVDD Pin=P2-3
+Removed Member From Class: ClassName=BATTERY Member=CC?
+Change Component Designator: OldDesignator=CC? NewDesignator=CC22
+Change Component Designator: OldDesignator=CC? NewDesignator=CC23
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Added Pin To Net: NetName=DVDD Pin=L1-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=P2-3
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=BATTERY Member=Component CC22 Cap Semi
+Added Member To Class: ClassName=BATTERY Member=Component CC23 Cap Semi
+Added Member To Class: ClassName=BATTERY Member=Component R19 300K

@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=GND Pin=BAL1-B1
+Removed Pin From Net: NetName=SWDIO Pin=CO1-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Rr4-1
+Removed Pin From Net: NetName=GND Pin=Rr6-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-A1
+Removed Pin From Net: NetName=XC1 Pin=U?-A2
+Removed Pin From Net: NetName=XC2 Pin=U?-A3
+Removed Pin From Net: NetName=GND Pin=U?-B1
+Removed Pin From Net: NetName=GND Pin=U?-B4
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-B8
+Removed Pin From Net: NetName=GND Pin=U?-C8
+Removed Pin From Net: NetName=JTAG.TCK Pin=U?-C9
+Removed Pin From Net: NetName=GND Pin=U?-D7
+Removed Pin From Net: NetName=JTAG.TDO Pin=U?-D9
+Removed Pin From Net: NetName=JTAG.TMS Pin=U?-E9
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-F1
+Removed Pin From Net: NetName=CM_CHARGE_I Pin=U?-F8
+Removed Pin From Net: NetName=JTAG.TDI Pin=U?-F9
+Removed Pin From Net: NetName=GND Pin=U?-G6
+Removed Pin From Net: NetName=GND Pin=U?-G9
+Removed Pin From Net: NetName=SWCLK Pin=U?-H2
+Removed Pin From Net: NetName=GND Pin=U?-H3
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-H8
+Removed Pin From Net: NetName=JTAG.T\R\S\T\ Pin=U?-H9
+Removed Pin From Net: NetName=SWDIO Pin=U?-J2
+Removed Pin From Net: NetName=DRDY_OUT Pin=U?-J6
+Removed Pin From Net: NetName=DRDY_NRF Pin=U?-J7
+Removed Pin From Net: NetName=NetU2_36 Pin=U?-J8
+Removed Pin From Net: NetName=XC2 Pin=Y2-1
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=XC1 Pin=Y2-3
+Removed Pin From Net: NetName=GND Pin=Y2-4
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=ANT1
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=BAL1
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr0
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr1
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr2
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr3
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr4
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Rr6
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=U?
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=Y2
+Added Component: Designator=C33(CAPC1608X06L)
+Added Component: Designator=C34(CAPC1005X04L)
+Added Component: Designator=C37(CAPC1005X04L)
+Added Component: Designator=C38(CAPC1005X04L)
+Added Component: Designator=C39(CAPC1608X06L)
+Added Component: Designator=C40(CAPC1005X04L)
+Added Component: Designator=C41(CAPC1005X04L)
+Added Component: Designator=C42(CAPC1005X04L)
+Added Component: Designator=C43(CAPC1005X04L)
+Added Component: Designator=C44(CAPC1005X04L)
+Added Component: Designator=C45(CAPC1005X04L)
+Added Component: Designator=C47(CAPC1005X04L)
+Added Component: Designator=L5(INDC1005X04L)
+Added Component: Designator=L6(J1-0603)
+Added Component: Designator=L7(INDC1005X04L)
+Added Component: Designator=R3(0402)
+Added Component: Designator=U3(QFN40P600X600X90-48N)
+Added Component: Designator=X3(BT-XTAL_2016)
+Added Component: Designator=X4(XTAL_3215)
+Added Component: Designator=XX1(0402)
+Added Component: Designator=XX2(INDC1005X04L)
+Added Component: Designator=XX3(INDC1005X04L)
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=XC2 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=DVDD Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=XC1 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=DVDD Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=DVDD Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=U3-4
+Added Pin To Net: NetName=JTAG.TDI Pin=U3-5
+Added Pin To Net: NetName=JTAG.TDO Pin=U3-6
+Added Pin To Net: NetName=JTAG.TMS Pin=U3-7
+Added Pin To Net: NetName=JTAG.TCK Pin=U3-8
+Added Pin To Net: NetName=DVDD Pin=U3-13
+Added Pin To Net: NetName=SWDIO Pin=U3-26
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=XC1 Pin=U3-34
+Added Pin To Net: NetName=XC2 Pin=U3-35
+Added Pin To Net: NetName=DVDD Pin=U3-36
+Added Pin To Net: NetName=GND Pin=U3-45
+Added Pin To Net: NetName=DVDD Pin=U3-48
+Added Pin To Net: NetName=GND Pin=U3-49
+Added Pin To Net: NetName=XC1 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=XC2 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=GND Pin=XX2-2
+Added Pin To Net: NetName=GND Pin=XX3-2
+Added Pin To Net: NetName=CS_ADC# Pin=U3-15
+Added Net: Name=CS_ADC#
+Added Pin To Net: NetName=CS_NRF# Pin=U3-16
+Added Net: Name=CS_NRF#
+Added Pin To Net: NetName=DEC1 Pin=C38-1
+Added Pin To Net: NetName=DEC1 Pin=U3-1
+Added Net: Name=DEC1
+Added Pin To Net: NetName=DEC2 Pin=C44-2
+Added Pin To Net: NetName=DEC2 Pin=U3-32
+Added Net: Name=DEC2
+Added Pin To Net: NetName=DEC3 Pin=C43-1
+Added Pin To Net: NetName=DEC3 Pin=U3-33
+Added Net: Name=DEC3
+Added Pin To Net: NetName=DEC4 Pin=C33-2
+Added Pin To Net: NetName=DEC4 Pin=L5-1
+Added Pin To Net: NetName=DEC4 Pin=U3-46
+Added Net: Name=DEC4
+Added Pin To Net: NetName=LED_1 Pin=U3-28
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=U3-27
+Added Net: Name=LED_2
+Added Pin To Net: NetName=MISO Pin=U3-17
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U3-18
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetA_1 Pin=XX1-2
+Added Pin To Net: NetName=NetA_1 Pin=XX3-1
+Added Net: Name=NetA_1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=L7-1
+Added Pin To Net: NetName=NetC45_2 Pin=U3-30
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=L6-1
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=U3-47
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetU2_30 Pin=U2-30
+Added Net: Name=NetU2_30
+Added Pin To Net: NetName=NetU2_31 Pin=U2-31
+Added Net: Name=NetU2_31
+Added Pin To Net: NetName=NetU2_33 Pin=U2-33
+Added Net: Name=NetU2_33
+Added Pin To Net: NetName=NetU2_38 Pin=U2-38
+Added Net: Name=NetU2_38
+Added Pin To Net: NetName=P0.00/XL1 Pin=C37-1
+Added Pin To Net: NetName=P0.00/XL1 Pin=U3-2
+Added Pin To Net: NetName=P0.00/XL1 Pin=X4-1
+Added Net: Name=P0.00/XL1
+Added Pin To Net: NetName=P0.01/XL2 Pin=C41-1
+Added Pin To Net: NetName=P0.01/XL2 Pin=U3-3
+Added Pin To Net: NetName=P0.01/XL2 Pin=X4-2
+Added Net: Name=P0.01/XL2
+Added Pin To Net: NetName=P0.07 Pin=U3-9
+Added Net: Name=P0.07
+Added Pin To Net: NetName=P0.08 Pin=U3-10
+Added Net: Name=P0.08
+Added Pin To Net: NetName=P0.09 Pin=U3-11
+Added Net: Name=P0.09
+Added Pin To Net: NetName=P0.10 Pin=U3-12
+Added Net: Name=P0.10
+Added Pin To Net: NetName=P0.11 Pin=U3-14
+Added Net: Name=P0.11
+Added Pin To Net: NetName=P0.17 Pin=R3-1
+Added Pin To Net: NetName=P0.17 Pin=U3-20
+Added Net: Name=P0.17
+Added Pin To Net: NetName=P0.18 Pin=U3-21
+Added Net: Name=P0.18
+Added Pin To Net: NetName=P0.19 Pin=U3-22
+Added Net: Name=P0.19
+Added Pin To Net: NetName=P0.20 Pin=U3-23
+Added Net: Name=P0.20
+Added Pin To Net: NetName=P0.21/RESET Pin=U3-24
+Added Net: Name=P0.21/RESET
+Added Pin To Net: NetName=P0.24 Pin=U3-29
+Added Net: Name=P0.24
+Added Pin To Net: NetName=P0.25 Pin=U3-37
+Added Net: Name=P0.25
+Added Pin To Net: NetName=P0.26 Pin=U3-38
+Added Net: Name=P0.26
+Added Pin To Net: NetName=P0.27 Pin=U3-39
+Added Net: Name=P0.27
+Added Pin To Net: NetName=P0.28/AIN4 Pin=U3-40
+Added Net: Name=P0.28/AIN4
+Added Pin To Net: NetName=P0.29/AIN5 Pin=U3-41
+Added Net: Name=P0.29/AIN5
+Added Pin To Net: NetName=P0.30/AIN6 Pin=U3-42
+Added Net: Name=P0.30/AIN6
+Added Pin To Net: NetName=P0.31/AIN7 Pin=U3-43
+Added Net: Name=P0.31/AIN7
+Added Pin To Net: NetName=RF Pin=L7-2
+Added Pin To Net: NetName=RF Pin=XX1-1
+Added Pin To Net: NetName=RF Pin=XX2-1
+Added Net: Name=RF
+Added Pin To Net: NetName=SCK Pin=U3-19
+Added Net: Name=SCK
+Added Pin To Net: NetName=SWDCLK Pin=U3-25
+Added Net: Name=SWDCLK
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C33 1.0µF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C34 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C37 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C38 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C39 4.7µF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C40 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C41 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C42 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C43 100pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C44 N.C.
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C45 0.8pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C47 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L5 LQW15AN15NJ00D
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L6 L0603B100KDWFT
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L7 3.9nH
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R3 100K
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component U3 nRF52832-QFAA
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component X3 FA-128 32.0000MF10Z-AJ3-ND
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component X4 ABS07AIG-32.768kHz-9-1-T
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX1 0
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX2 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX3 NC

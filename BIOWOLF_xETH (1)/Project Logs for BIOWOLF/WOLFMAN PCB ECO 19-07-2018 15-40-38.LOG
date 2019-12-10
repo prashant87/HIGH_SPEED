@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=X1 NewDesignator=XX1
+Change Component Designator: OldDesignator=X2 NewDesignator=XX2
+Change Component Designator: OldDesignator=X3 NewDesignator=XX3
+Change Net Name : Old Net Name=NetX1_1 New Net Name=NetXX1_1
+Added Member To Class: ClassName=NRF52832 Member=Component XX3 ???

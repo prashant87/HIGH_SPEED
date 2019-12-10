@@ -1,0 +1,56 @@
+Added Component: Designator=L6(INDC1608X06L)
+Added Component: Designator=U3(QFN40P600X600X90-48N)
+Added Pin To Net: NetName=NetL5_2 Pin=L6-1
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=JTAG.TCK Pin=U1-44
+Added Pin To Net: NetName=JTAG.TMS Pin=U1-45
+Added Pin To Net: NetName=JTAG.TDO Pin=U1-46
+Added Pin To Net: NetName=JTAG.TDI Pin=U1-47
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=U1-48
+Added Pin To Net: NetName=DEC1 Pin=U3-1
+Added Pin To Net: NetName=P0.00/XL1 Pin=U3-2
+Added Pin To Net: NetName=P0.01/XL2 Pin=U3-3
+Added Pin To Net: NetName=P0.02/AIN0 Pin=U3-4
+Added Pin To Net: NetName=P0.03/AIN1 Pin=U3-5
+Added Pin To Net: NetName=P0.04/AIN2 Pin=U3-6
+Added Pin To Net: NetName=P0.05/AIN2 Pin=U3-7
+Added Pin To Net: NetName=DVDD Pin=U3-13
+Added Pin To Net: NetName=P0.11 Pin=U3-14
+Added Pin To Net: NetName=P0.12 Pin=U3-15
+Added Pin To Net: NetName=P0.13 Pin=U3-16
+Added Pin To Net: NetName=P0.14 Pin=U3-17
+Added Pin To Net: NetName=P0.15 Pin=U3-18
+Added Pin To Net: NetName=P0.16 Pin=U3-19
+Added Pin To Net: NetName=P0.17 Pin=U3-20
+Added Pin To Net: NetName=P0.18 Pin=U3-21
+Added Pin To Net: NetName=P0.19 Pin=U3-22
+Added Pin To Net: NetName=P0.20 Pin=U3-23
+Added Pin To Net: NetName=P0.21/RESET Pin=U3-24
+Added Pin To Net: NetName=SWDCLK Pin=U3-25
+Added Pin To Net: NetName=SWDIO Pin=U3-26
+Added Pin To Net: NetName=P0.22 Pin=U3-27
+Added Pin To Net: NetName=P0.23 Pin=U3-28
+Added Pin To Net: NetName=P0.24 Pin=U3-29
+Added Pin To Net: NetName=NetC45_2 Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=DEC2 Pin=U3-32
+Added Pin To Net: NetName=DEC3 Pin=U3-33
+Added Pin To Net: NetName=XC1 Pin=U3-34
+Added Pin To Net: NetName=XC2 Pin=U3-35
+Added Pin To Net: NetName=DVDD Pin=U3-36
+Added Pin To Net: NetName=P0.25 Pin=U3-37
+Added Pin To Net: NetName=P0.26 Pin=U3-38
+Added Pin To Net: NetName=P0.27 Pin=U3-39
+Added Pin To Net: NetName=P0.28/AIN4 Pin=U3-40
+Added Pin To Net: NetName=P0.29/AIN5 Pin=U3-41
+Added Pin To Net: NetName=P0.30/AIN6 Pin=U3-42
+Added Pin To Net: NetName=P0.31/AIN7 Pin=U3-43
+Added Pin To Net: NetName=GND Pin=U3-45
+Added Pin To Net: NetName=DEC4 Pin=U3-46
+Added Pin To Net: NetName=NetL6_2 Pin=U3-47
+Added Pin To Net: NetName=DVDD Pin=U3-48
+Added Pin To Net: NetName=GND Pin=U3-49
+Added Member To Class: ClassName=NRF52832 Member=Component L6 10µH
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=BATTERY Member=Component R? 10K
+Added Member To Class: ClassName=NRF52832 Member=Component U3 nRF52832-QFAB

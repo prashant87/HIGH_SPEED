@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=JTAG.T\R\S\T\ Pin=U3-8
+Removed Pin From Net: NetName=JTAG.TDI Pin=U3-9
+Removed Pin From Net: NetName=JTAG.TDO Pin=U3-10
+Removed Pin From Net: NetName=JTAG.TMS Pin=U3-11
+Removed Pin From Net: NetName=JTAG.TCK Pin=U3-12
+Added Component: Designator=PE1(MHDR1X12)
+Added Pin To Net: NetName=EL1 Pin=PE1-1
+Added Pin To Net: NetName=EL2 Pin=PE1-2
+Added Pin To Net: NetName=EL3 Pin=PE1-3
+Added Pin To Net: NetName=EL4 Pin=PE1-4
+Added Pin To Net: NetName=EL5 Pin=PE1-5
+Added Pin To Net: NetName=EL6 Pin=PE1-6
+Added Pin To Net: NetName=EL7 Pin=PE1-7
+Added Pin To Net: NetName=EL8 Pin=PE1-8
+Added Pin To Net: NetName=REF Pin=PE1-9
+Added Pin To Net: NetName=REF1.5V Pin=PE1-10
+Added Pin To Net: NetName=AVDD Pin=PE1-11
+Added Pin To Net: NetName=AGND Pin=PE1-12
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=U3-4
+Added Pin To Net: NetName=JTAG.TDI Pin=U3-5
+Added Pin To Net: NetName=JTAG.TDO Pin=U3-6
+Added Pin To Net: NetName=JTAG.TMS Pin=U3-7
+Added Pin To Net: NetName=JTAG.TCK Pin=U3-8
+Added Pin To Net: NetName=BOOTSEL Pin=YW-4
+Added Pin To Net: NetName=P0.07 Pin=PW2-1
+Added Pin To Net: NetName=P0.07 Pin=R11-2
+Added Pin To Net: NetName=P0.07 Pin=U3-9
+Added Net: Name=P0.07
+Added Pin To Net: NetName=P0.08 Pin=PW2-2
+Added Pin To Net: NetName=P0.08 Pin=R12-2
+Added Pin To Net: NetName=P0.08 Pin=U3-10
+Added Net: Name=P0.08
+Added Pin To Net: NetName=P0.09 Pin=PW1-9
+Added Pin To Net: NetName=P0.09 Pin=R4-1
+Added Pin To Net: NetName=P0.09 Pin=U3-11
+Added Net: Name=P0.09
+Added Pin To Net: NetName=P0.10 Pin=PW1-7
+Added Pin To Net: NetName=P0.10 Pin=R10-1
+Added Pin To Net: NetName=P0.10 Pin=U3-12
+Added Net: Name=P0.10
+Added Member To Class: ClassName=ADC Member=Component ADC1 ADS1298
+Added Member To Class: ClassName=ADC Member=Component PE1 MHDR1X12
+Added Room: Name=NRF52832

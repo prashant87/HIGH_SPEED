@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=P0.29/AIN5 Pin=PJ-1
+Removed Pin From Net: NetName=JTAG.T\R\S\T\ Pin=PJ-2
+Removed Pin From Net: NetName=JTAG.TDI Pin=PJ-3
+Removed Pin From Net: NetName=JTAG.TDO Pin=PJ-4
+Removed Pin From Net: NetName=JTAG.TMS Pin=PJ-5
+Removed Pin From Net: NetName=JTAG.TCK Pin=PJ-6
+Removed Pin From Net: NetName=GND Pin=PJ-7
+Removed Pin From Net: NetName=DVDD Pin=PJ-8
+Added Component: Designator=PJ(MOLEX_5051100892)
+Added Pin To Net: NetName=P0.29/AIN5 Pin=PJ-1
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=PJ-2
+Added Pin To Net: NetName=JTAG.TDI Pin=PJ-3
+Added Pin To Net: NetName=JTAG.TDO Pin=PJ-4
+Added Pin To Net: NetName=JTAG.TMS Pin=PJ-5
+Added Pin To Net: NetName=JTAG.TCK Pin=PJ-6
+Added Pin To Net: NetName=GND Pin=PJ-7
+Added Pin To Net: NetName=DVDD Pin=PJ-8
+Added Member To Class: ClassName=03_ANALOG Member=Component PE1 MOLEX_5051102091
+Added Room: Name=01_MRWOLF
+Added Room: Name=02_NRF52832
+Added Room: Name=03_ANALOG
+Added Room: Name=04_POWER

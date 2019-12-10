@@ -1,0 +1,12 @@
+Added Component: Designator=PJ(HEADER8)
+Added Pin To Net: NetName=P0.27 Pin=PJ-1
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=PJ-2
+Added Pin To Net: NetName=JTAG.TCK Pin=PJ-3
+Added Pin To Net: NetName=JTAG.TMS Pin=PJ-4
+Added Pin To Net: NetName=JTAG.TDI Pin=PJ-5
+Added Pin To Net: NetName=JTAG.TDO Pin=PJ-6
+Added Pin To Net: NetName=GND Pin=PJ-7
+Added Pin To Net: NetName=DVDD Pin=PJ-8
+Added Member To Class: ClassName=BATTERY Member=Component CC? Cap Semi
+Added Member To Class: ClassName=MRWOLF Member=Component PJ Header 8
+Added Member To Class: ClassName=BATTERY Member=Component R? 150K

@@ -1,0 +1,4 @@
+Added Component: Designator=R22(0402)
+Added Pin To Net: NetName=P0.29/AIN5 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Member To Class: ClassName=NRF52832 Member=Component R22 100K

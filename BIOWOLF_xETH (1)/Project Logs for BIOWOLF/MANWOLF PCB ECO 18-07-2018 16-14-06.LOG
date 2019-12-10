@@ -1,0 +1,9 @@
+Added Component: Designator=SW(HEADER5)
+Added Pin To Net: NetName=GND Pin=SW-1
+Added Pin To Net: NetName=DVDD Pin=SW-2
+Added Pin To Net: NetName=P0.21/RESET Pin=SW-3
+Added Pin To Net: NetName=SWDCLK Pin=SW-4
+Added Pin To Net: NetName=SWDIO Pin=SW-5
+Added Member To Class: ClassName=BATTERY Member=Component CC? Cap Semi
+Added Member To Class: ClassName=BATTERY Member=Component R? 150K
+Added Member To Class: ClassName=NRF52832 Member=Component SW Header 5

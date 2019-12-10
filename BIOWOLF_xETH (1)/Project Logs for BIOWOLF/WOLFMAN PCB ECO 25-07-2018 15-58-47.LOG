@@ -1,0 +1,22 @@
+Added Component: Designator=PE1(MOLEX_5051102091)
+Added Pin To Net: NetName=EL1 Pin=PE1-1
+Added Pin To Net: NetName=ELM1 Pin=PE1-2
+Added Pin To Net: NetName=EL2 Pin=PE1-3
+Added Pin To Net: NetName=ELM2 Pin=PE1-4
+Added Pin To Net: NetName=EL3 Pin=PE1-5
+Added Pin To Net: NetName=ELM3 Pin=PE1-6
+Added Pin To Net: NetName=EL4 Pin=PE1-7
+Added Pin To Net: NetName=ELM4 Pin=PE1-8
+Added Pin To Net: NetName=REF Pin=PE1-9
+Added Pin To Net: NetName=AVDD Pin=PE1-10
+Added Pin To Net: NetName=EL5 Pin=PE1-11
+Added Pin To Net: NetName=ELM5 Pin=PE1-12
+Added Pin To Net: NetName=EL6 Pin=PE1-13
+Added Pin To Net: NetName=ELM6 Pin=PE1-14
+Added Pin To Net: NetName=EL7 Pin=PE1-15
+Added Pin To Net: NetName=ELM7 Pin=PE1-16
+Added Pin To Net: NetName=EL8 Pin=PE1-17
+Added Pin To Net: NetName=ELM8 Pin=PE1-18
+Added Pin To Net: NetName=REF1.5V Pin=PE1-19
+Added Pin To Net: NetName=AGND Pin=PE1-20
+Added Member To Class: ClassName=03_ANALOG Member=Component PE1 MOLEX_5051102091
