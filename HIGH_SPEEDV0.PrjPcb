@@ -54,23 +54,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PNHYHKRA
 
 [Document2]
-DocumentPath=HIGHSPEED__v0_ACCEL.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYYLDICN
-
-[Document3]
 DocumentPath=HIGHSPEED_v0_BATT-CHARGER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXNUNPPD
 
-[Document4]
+[Document3]
 DocumentPath=HIGHSPEED_v0_NM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,24 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKVDCOSI
 
-[Document5]
-DocumentPath=HIGHSPEED_v0_POWER-SUPPLIES.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QHPXKTOI
-
-[Document6]
+[Document4]
 DocumentPath=HIGHSPEED_v0_RADIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXNOIGCX
 
-[Document7]
+[Document5]
 DocumentPath=HIGHSPEED_v0_SF2-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSNETBLO
 
-[Document8]
+[Document6]
 DocumentPath=HIGHSPEED_v0_SF2_DDR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,24 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGKLOSHV
 
-[Document9]
-DocumentPath=HIGHSPEED_v0_SF2_unused.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TADYVODD
-
-[Document10]
+[Document7]
 DocumentPath=HIGHSPEED_v0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPQOASWF
 
-[Document11]
+[Document8]
 DocumentPath=HIGHSPEED_v0_SF2_DDR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document9]
 DocumentPath=C:\Users\MaxHouse\Downloads\QFN56-socket\QFN56-socket.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVZVEUJM
 
-[Document13]
+[Document10]
 DocumentPath=C:\Users\MaxHouse\Downloads\Kosmodron\Kosmodron.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNRPTBUP
 
-[Document14]
+[Document11]
 DocumentPath=C:\Users\MaxHouse\Downloads\pca10040\pca10040.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBFQKKAK
 
-[Document15]
+[Document12]
 DocumentPath=plink.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +240,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQQHDCWP
 
-[Document16]
+[Document13]
+DocumentPath=..\..\DROPBOX_SIMONE\Dropbox\NMIC\CM_lib\CM.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TFMIQYFP
+
+[Document14]
 DocumentPath=C:\Users\MaxHouse\Downloads\Kosmodron\Kosmodron.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXMJIUYR
 
-[Document17]
+[Document15]
 DocumentPath=C:\Users\MaxHouse\Downloads\QFN56-socket\QFN56-socket.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBWGYROC
 
-[Document18]
+[Document16]
 DocumentPath=C:\Users\MaxHouse\Downloads\pca10040\400150.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMHUVRBI
 
-[Document19]
+[Document17]
 DocumentPath=HIGHSPEED_v0_RADIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -1,0 +1,102 @@
+Change Component Footprint: Designator=U30 Old Footprint=QFN56_M New Footprint=QFN56_M
+Added Component: Designator=C1(J1-0603)
+Added Component: Designator=C3(0402)
+Added Component: Designator=C5(0402)
+Added Component: Designator=C7(0402)
+Added Component: Designator=C8(0402)
+Added Component: Designator=C9(0402)
+Added Component: Designator=C10(0402)
+Added Component: Designator=C22(0402)
+Added Component: Designator=C47(CAPC1005X04L)
+Added Component: Designator=CO1(CONN_12-CLP)
+Added Component: Designator=CObat(Header, 2 pin, 2mm(79mil))
+Added Component: Designator=COch1(Header, 2 pin, 2mm(79mil))
+Added Component: Designator=COch2(USB-microB_amp_10118194-0001LF)
+Added Component: Designator=CW1(0402)
+Added Component: Designator=CW2(0402)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0402)
+Added Component: Designator=RVREG1(J1-0603)
+Added Component: Designator=SW1(SWITCH_SPST_CHS-01TB)
+Added Component: Designator=U11(DFN-6_LT)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VAVD Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCLU Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCLU Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=VCLU Pin=C22-2
+Added Pin To Net: NetName=DVDD Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=SWCLK Pin=CO1-1
+Added Pin To Net: NetName=TDOR_I Pin=CO1-3
+Added Pin To Net: NetName=VDD_1V8 Pin=CO1-4
+Added Pin To Net: NetName=TRST Pin=CO1-5
+Added Pin To Net: NetName=GND Pin=CO1-6
+Added Pin To Net: NetName=TCK_I Pin=CO1-7
+Added Pin To Net: NetName=GND Pin=CO1-8
+Added Pin To Net: NetName=TMS_I Pin=CO1-9
+Added Pin To Net: NetName=VPUMP Pin=CO1-10
+Added Pin To Net: NetName=TDI_I Pin=CO1-11
+Added Pin To Net: NetName=VJTAG Pin=CO1-12
+Added Pin To Net: NetName=VBATT Pin=CObat-1
+Added Pin To Net: NetName=GND Pin=CObat-2
+Added Pin To Net: NetName=CHG_IN Pin=COch1-1
+Added Pin To Net: NetName=GND Pin=COch1-2
+Added Pin To Net: NetName=CHG_IN Pin=COch2-1
+Added Pin To Net: NetName=NetCOch2_2 Pin=COch2-2
+Added Pin To Net: NetName=NetCOch2_3 Pin=COch2-3
+Added Pin To Net: NetName=NetCOch2_4 Pin=COch2-4
+Added Pin To Net: NetName=GND Pin=COch2-5
+Added Pin To Net: NetName=GND Pin=CW1-1
+Added Pin To Net: NetName=VCLU Pin=CW1-2
+Added Pin To Net: NetName=GND Pin=CW2-1
+Added Pin To Net: NetName=VCLU Pin=CW2-2
+Added Pin To Net: NetName=NetJ1_7 Pin=R1-1
+Added Pin To Net: NetName=VDD_1V8 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-2
+Added Pin To Net: NetName=P0.17 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=VAVD Pin=RVREG1-1
+Added Pin To Net: NetName=VDD_1V8 Pin=RVREG1-2
+Added Pin To Net: NetName=SW_BATT Pin=SW1-1
+Added Pin To Net: NetName=VBATT Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=CHRGN Pin=U11-2
+Added Pin To Net: NetName=VBATT Pin=U11-3
+Added Pin To Net: NetName=CHG_IN Pin=U11-4
+Added Pin To Net: NetName=CM_CHARGE_ENA Pin=U11-5
+Added Pin To Net: NetName=NetRe4_2 Pin=U11-6
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C1 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C3 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C5 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C7 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C8 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C9 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C10 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C22 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C47 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component CO1 JTAG_SWD_12_F-SF2-Nor
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component CObat Header, 2 pin
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component COch1 Header, 2 pin
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component COch2 USB micro-B
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component CW1 4.7uF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component CW2 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component R1 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component R2 
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R3 100K
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component RVREG1 
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component SW1 SWITCH_SPST
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component U11 LTC4065EDC#TRMPBF
