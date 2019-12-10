@@ -1,0 +1,250 @@
+Added Component: Designator=Cb1(c0201-Murata-GR)
+Added Component: Designator=Cb2(c0201-Murata-GR)
+Added Component: Designator=Cb3(c0201-Murata-GR)
+Added Component: Designator=Cb4(c0201-Murata-GR)
+Added Component: Designator=Cb5(c0201-Murata-GR)
+Added Component: Designator=Cb6(c0201-Murata-GR)
+Added Component: Designator=Cb7(c0201-Murata-GR)
+Added Component: Designator=Cb8(c0201-Murata-GR)
+Added Component: Designator=Cb9(c0201-Murata-GR)
+Added Component: Designator=Cb10(c0201-Murata-GR)
+Added Component: Designator=Cb11(c0201-Murata-GR)
+Added Component: Designator=Cb12(c0201-Murata-GR)
+Added Component: Designator=Cb30(c0603-Murata-GR)
+Added Component: Designator=Cb31(c0603-Murata-GR)
+Added Component: Designator=Cb43(c0402-Murata-GR)
+Added Component: Designator=Cb44(c0402-Murata-GR)
+Added Component: Designator=Cb45(c0402-Murata-GR)
+Added Component: Designator=Cb46(c0402-Murata-GR)
+Added Component: Designator=Cb47(c0402-Murata-GR)
+Added Component: Designator=Cb50(c0603-Murata-GR)
+Added Component: Designator=Cb60(c0201-Murata-GR)
+Added Component: Designator=Cb70(c0402-Murata-GR)
+Added Component: Designator=Cb71(c0402-Murata-GR)
+Added Component: Designator=Cb72(c0402-Murata-GR)
+Added Component: Designator=Cb73(c0402-Murata-GR)
+Added Component: Designator=Cb80(c0603-Murata-GR)
+Added Component: Designator=Cb90(c0402-Murata-GR)
+Added Component: Designator=Cb91(c0402-Murata-GR)
+Added Component: Designator=Cb92(c0402-Murata-GR)
+Added Component: Designator=Cb93(c0402-Murata-GR)
+Added Component: Designator=Cb95(c0402-Murata-GR)
+Added Component: Designator=Cb96(c0402-Murata-GR)
+Added Component: Designator=Cb97(c0402-Murata-GR)
+Added Component: Designator=CbA0(c0603-Murata-GR)
+Added Component: Designator=CbA1(c0603-Murata-GR)
+Added Component: Designator=CbB0(c0603-Murata-GR)
+Added Component: Designator=Cc3(c0201-Murata-GR)
+Added Component: Designator=Ce1(c0402-TDK-C)
+Added Component: Designator=Ce2(c0402-TDK-C)
+Added Component: Designator=Ce3(c0603-Murata-GR)
+Added Component: Designator=Ce4(c0402-Murata-GR)
+Added Component: Designator=LED0(LED-0603)
+Added Component: Designator=LED1(LED-0603)
+Added Component: Designator=LED2(LED-0603)
+Added Component: Designator=LED3(LED-0603)
+Added Component: Designator=LED4(LED-0603)
+Added Component: Designator=Rc0(0201_p)
+Added Component: Designator=Rc1(0201_p)
+Added Component: Designator=Rc2(0201_p)
+Added Component: Designator=Rc3(0201_p)
+Added Component: Designator=Rc5(0402_p)
+Added Component: Designator=RcA(0402_p)
+Added Component: Designator=RcC(0201_p)
+Added Component: Designator=RcD(0201_p)
+Added Component: Designator=Re1(0402_p)
+Added Component: Designator=Re2(0402_p)
+Added Component: Designator=Re3(0402_p)
+Added Component: Designator=Re4(0402_p)
+Added Component: Designator=Re5(0402_p)
+Added Component: Designator=Re6(0402_p)
+Added Component: Designator=Re7(0402_p)
+Added Component: Designator=Re8(0402_p)
+Added Component: Designator=U30(QFN56_M)
+Added Component: Designator=U30(QFN56_M)
+Added Pin To Net: NetName=GND Pin=Cb1-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb1-2
+Added Pin To Net: NetName=GND Pin=Cb2-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb2-2
+Added Pin To Net: NetName=GND Pin=Cb3-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb3-2
+Added Pin To Net: NetName=GND Pin=Cb4-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb4-2
+Added Pin To Net: NetName=GND Pin=Cb5-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb5-2
+Added Pin To Net: NetName=GND Pin=Cb6-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb6-2
+Added Pin To Net: NetName=GND Pin=Cb7-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb7-2
+Added Pin To Net: NetName=GND Pin=Cb8-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb8-2
+Added Pin To Net: NetName=GND Pin=Cb9-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb9-2
+Added Pin To Net: NetName=GND Pin=Cb10-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb10-2
+Added Pin To Net: NetName=GND Pin=Cb11-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb11-2
+Added Pin To Net: NetName=GND Pin=Cb12-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb12-2
+Added Pin To Net: NetName=GND Pin=Cb30-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb30-2
+Added Pin To Net: NetName=GND Pin=Cb31-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb31-2
+Added Pin To Net: NetName=GND Pin=Cb43-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb43-2
+Added Pin To Net: NetName=GND Pin=Cb44-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb44-2
+Added Pin To Net: NetName=GND Pin=Cb45-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb45-2
+Added Pin To Net: NetName=GND Pin=Cb46-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb46-2
+Added Pin To Net: NetName=GND Pin=Cb47-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb47-2
+Added Pin To Net: NetName=GND Pin=Cb50-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb50-2
+Added Pin To Net: NetName=GND Pin=Cb60-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb60-2
+Added Pin To Net: NetName=GND Pin=Cb70-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb70-2
+Added Pin To Net: NetName=GND Pin=Cb71-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb71-2
+Added Pin To Net: NetName=GND Pin=Cb72-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb72-2
+Added Pin To Net: NetName=GND Pin=Cb73-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb73-2
+Added Pin To Net: NetName=GND Pin=Cb80-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Cb80-2
+Added Pin To Net: NetName=GND Pin=Cb90-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb90-2
+Added Pin To Net: NetName=GND Pin=Cb91-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb91-2
+Added Pin To Net: NetName=GND Pin=Cb92-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb92-2
+Added Pin To Net: NetName=GND Pin=Cb93-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb93-2
+Added Pin To Net: NetName=GND Pin=Cb95-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb95-2
+Added Pin To Net: NetName=GND Pin=Cb96-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb96-2
+Added Pin To Net: NetName=GND Pin=Cb97-1
+Added Pin To Net: NetName=VDD_3V0 Pin=Cb97-2
+Added Pin To Net: NetName=GND Pin=CbA0-1
+Added Pin To Net: NetName=VDD_3V0 Pin=CbA0-2
+Added Pin To Net: NetName=GND Pin=CbA1-1
+Added Pin To Net: NetName=VDD_3V0 Pin=CbA1-2
+Added Pin To Net: NetName=GND Pin=CbB0-1
+Added Pin To Net: NetName=VDD_3V0 Pin=CbB0-2
+Added Pin To Net: NetName=GND Pin=Cc3-1
+Added Pin To Net: NetName=NSFRESET Pin=Cc3-2
+Added Pin To Net: NetName=NetCe1_1 Pin=Ce1-1
+Added Pin To Net: NetName=CHG_IN Pin=Ce1-2
+Added Pin To Net: NetName=GND Pin=Ce2-1
+Added Pin To Net: NetName=VBATT Pin=Ce2-2
+Added Pin To Net: NetName=NetCe3_1 Pin=Ce3-1
+Added Pin To Net: NetName=VBATT Pin=Ce3-2
+Added Pin To Net: NetName=GND Pin=Ce4-1
+Added Pin To Net: NetName=CM_CHARGE_I Pin=Ce4-2
+Added Pin To Net: NetName=NetLED0_1 Pin=LED0-1
+Added Pin To Net: NetName=GND Pin=LED0-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=CHRGN Pin=LED4-2
+Added Pin To Net: NetName=NetLED0_1 Pin=Rc0-1
+Added Pin To Net: NetName=NetJ1_14 Pin=Rc0-2
+Added Pin To Net: NetName=NetLED1_1 Pin=Rc1-1
+Added Pin To Net: NetName=GPIO1 Pin=Rc1-2
+Added Pin To Net: NetName=VDD_2V5 Pin=Rc2-1
+Added Pin To Net: NetName=NSFRESET Pin=Rc2-2
+Added Pin To Net: NetName=JTAGSEL Pin=Rc3-1
+Added Pin To Net: NetName=VDD_2V5 Pin=Rc3-2
+Added Pin To Net: NetName=VJTAG Pin=Rc5-1
+Added Pin To Net: NetName=VPUMP Pin=Rc5-2
+Added Pin To Net: NetName=TDI Pin=RcA-1
+Added Pin To Net: NetName=TDI_I Pin=RcA-2
+Added Pin To Net: NetName=NetLED2_1 Pin=RcC-1
+Added Pin To Net: NetName=GPIO2 Pin=RcC-2
+Added Pin To Net: NetName=NetLED3_1 Pin=RcD-1
+Added Pin To Net: NetName=GPIO3 Pin=RcD-2
+Added Pin To Net: NetName=GND Pin=Re1-1
+Added Pin To Net: NetName=NetCe1_1 Pin=Re1-2
+Added Pin To Net: NetName=NetLED4_1 Pin=Re2-1
+Added Pin To Net: NetName=CHG_IN Pin=Re2-2
+Added Pin To Net: NetName=GND Pin=Re3-1
+Added Pin To Net: NetName=CM_CHARGE_ENA Pin=Re3-2
+Added Pin To Net: NetName=GND Pin=Re4-1
+Added Pin To Net: NetName=NetRe4_2 Pin=Re4-2
+Added Pin To Net: NetName=GND Pin=Re5-1
+Added Pin To Net: NetName=NetCe3_1 Pin=Re5-2
+Added Pin To Net: NetName=NetRe4_2 Pin=Re6-1
+Added Pin To Net: NetName=CM_CHARGE_I Pin=Re6-2
+Added Pin To Net: NetName=GND Pin=Re7-1
+Added Pin To Net: NetName=NetCOch2_4 Pin=Re7-2
+Added Pin To Net: NetName=NetCOch2_3 Pin=Re8-1
+Added Pin To Net: NetName=NetCOch2_2 Pin=Re8-2
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb1 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb2 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb3 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb4 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb5 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb6 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb7 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb8 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb9 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb10 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb11 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb12 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb30 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb31 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb43 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb44 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb45 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb46 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb47 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb50 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb60 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb70 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb71 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb72 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb73 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb80 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb90 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb91 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb92 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb93 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb95 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb96 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb97 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component CbA0 GRM188R61E106MA73D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component CbA1 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component CbB0 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cc3 0201
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce1 C1005X5R1C105M050BC
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce2 C1005X5R1C105M050BC
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce3 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce4 GRM155R61H102KA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED0 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED1 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED2 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED3 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component LED4 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Rc0 ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Rc1 ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc2 ERJ-1GEF1002C
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc3 ERJ-1GEF1001C
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc5 ERJ-2GE0R00X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component RcA ERJ-PA2J330X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component RcC ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component RcD ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re1 ERJ-2BQF1R0X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re2 ERJ-2RKF4990X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re3 ERJ-2RKF1004X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re4 ERJ-2RKF2001X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re5 ERJ-2BQF1R0X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re6 ERJ-2RKF1002X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re7 DNI
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re8 ERJ-PA2J151X
