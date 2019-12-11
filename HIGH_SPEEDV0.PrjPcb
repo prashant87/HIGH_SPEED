@@ -173,6 +173,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
+DocumentPath=pca10040.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VBFQKKAK
+
+[Document10]
 DocumentPath=EMG_PATCH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +206,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AENVBKYV
 
-[Document10]
+[Document11]
+DocumentPath=400150.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JMHUVRBI
+
+[Document12]
 DocumentPath=Demo_Board_library_PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKPIQLCG
 
-[Document11]
+[Document13]
 DocumentPath=EMG_PATCH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFSGHKUU
 
-[Document12]
+[Document14]
 DocumentPath=Kosmodron.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXMJIUYR
 
-[Document13]
+[Document15]
 DocumentPath=QFN56-socket.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBWGYROC
 
-[Document14]
+[Document16]
 DocumentPath=Custom.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTTCDWYE
 
-[Document15]
+[Document17]
 DocumentPath=CM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFMIQYFP
 
-[Document16]
+[Document18]
 DocumentPath=Demo_Board_library_SCH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXGIQDLK
 
-[Document17]
+[Document19]
 DocumentPath=QFN56-socket.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVZVEUJM
 
-[Document18]
+[Document20]
 DocumentPath=Kosmodron.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNRPTBUP
 
-[Document19]
+[Document21]
 DocumentPath=Custom.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDQGFFGM
 
-[Document20]
+[Document22]
 DocumentPath=CM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSNQTLCB
 
-[Document21]
+[Document23]
 DocumentPath=plink.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQQHDCWP
 
-[Document22]
+[Document24]
 DocumentPath=HIGHSPEED_v0_RADIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

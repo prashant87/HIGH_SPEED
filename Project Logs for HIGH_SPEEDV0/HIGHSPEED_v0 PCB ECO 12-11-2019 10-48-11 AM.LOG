@@ -1,0 +1,369 @@
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=C?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=C?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=L?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=L?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=LED?
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=R?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=R?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Rc?
+Removed Member From Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=U?
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=U?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=U?
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=YW?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb1
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb2
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb3
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb4
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb5
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb6
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb7
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb8
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb9
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb10
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb11
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb12
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb13
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb14
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb15
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb16
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb17
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb18
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb19
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb20
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb21
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb22
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb23
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb24
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb25
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb26
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb27
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb28
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb29
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb30
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb31
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb32
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb33
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb34
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb35
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb36
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb37
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb38
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb39
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb40
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb41
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb42
+Change Component Designator: OldDesignator=Cb? NewDesignator=Cb43
+Change Component Designator: OldDesignator=CbA? NewDesignator=CbA1
+Change Component Designator: OldDesignator=CbA? NewDesignator=CbA2
+Change Component Designator: OldDesignator=CbB? NewDesignator=CbB1
+Change Component Designator: OldDesignator=Cc? NewDesignator=Cc1
+Change Component Designator: OldDesignator=Cc? NewDesignator=Cc2
+Change Component Designator: OldDesignator=Cc? NewDesignator=Cc3
+Change Component Designator: OldDesignator=Ce? NewDesignator=Ce1
+Change Component Designator: OldDesignator=Ce? NewDesignator=Ce2
+Change Component Designator: OldDesignator=Ce? NewDesignator=Ce3
+Change Component Designator: OldDesignator=Ce? NewDesignator=Ce4
+Change Component Designator: OldDesignator=CO? NewDesignator=CO1
+Change Component Designator: OldDesignator=CObat? NewDesignator=CObat1
+Change Component Designator: OldDesignator=COch? NewDesignator=COch1
+Change Component Designator: OldDesignator=COch? NewDesignator=COch2
+Change Component Designator: OldDesignator=Cs? NewDesignator=Cs1
+Change Component Designator: OldDesignator=Cs? NewDesignator=Cs2
+Change Component Designator: OldDesignator=CW? NewDesignator=CW1
+Change Component Designator: OldDesignator=CW? NewDesignator=CW2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=Ls? NewDesignator=Ls1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc1
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc2
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc3
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc4
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc5
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc6
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc7
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc8
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc9
+Change Component Designator: OldDesignator=Rc? NewDesignator=Rc10
+Change Component Designator: OldDesignator=RcA? NewDesignator=RcA1
+Change Component Designator: OldDesignator=RcB? NewDesignator=RcB1
+Change Component Designator: OldDesignator=RcC? NewDesignator=RcC1
+Change Component Designator: OldDesignator=RcD? NewDesignator=RcD1
+Change Component Designator: OldDesignator=Re? NewDesignator=Re1
+Change Component Designator: OldDesignator=Re? NewDesignator=Re2
+Change Component Designator: OldDesignator=Re? NewDesignator=Re3
+Change Component Designator: OldDesignator=Re? NewDesignator=Re4
+Change Component Designator: OldDesignator=Re? NewDesignator=Re5
+Change Component Designator: OldDesignator=Re? NewDesignator=Re6
+Change Component Designator: OldDesignator=Re? NewDesignator=Re7
+Change Component Designator: OldDesignator=Re? NewDesignator=Re8
+Change Component Designator: OldDesignator=RVREG? NewDesignator=RVREG1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=XX? NewDesignator=XX1
+Change Component Designator: OldDesignator=XX? NewDesignator=XX2
+Change Component Designator: OldDesignator=XX? NewDesignator=XX3
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Component Designator: OldDesignator=YW? NewDesignator=YW1
+Change Component Designator: OldDesignator=YW? NewDesignator=YW2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetCe?_1 New Net Name=NetCe1_1
+Change Net Name : Old Net Name=NetCe?_1 New Net Name=NetCe3_1
+Change Net Name : Old Net Name=NetCOch?_2 New Net Name=NetCOch1_2
+Change Net Name : Old Net Name=NetCOch?_3 New Net Name=NetCOch1_3
+Change Net Name : Old Net Name=NetCOch?_4 New Net Name=NetCOch1_4
+Change Net Name : Old Net Name=NetCs?_2 New Net Name=NetCs1_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED5_1
+Change Net Name : Old Net Name=NetLs?_2 New Net Name=NetLs1_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetRe?_1 New Net Name=NetRe4_1
+Change Net Name : Old Net Name=VCC_3_7 New Net Name=VDD_3V7
+Change Net Name : Old Net Name=VCC_33 New Net Name=VDD_3V3
+Added Pin To Net: NetName=NetA1_1 Pin=XX1-2
+Added Pin To Net: NetName=NetA1_1 Pin=XX3-1
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=C14-1
+Added Pin To Net: NetName=NetC13_1 Pin=L4-1
+Added Pin To Net: NetName=NetC13_1 Pin=U8-5
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U7-4
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=U10-3
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=C29-2
+Added Pin To Net: NetName=NetC28_2 Pin=C30-2
+Added Pin To Net: NetName=NetC28_2 Pin=L5-1
+Added Pin To Net: NetName=NetC28_2 Pin=U10-5
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R4-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetJ1_7 Pin=R6-1
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_14 Pin=Rc10-2
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U8-3
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C1 1.0µF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C2 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C3 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C4 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C5 4.7µF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C6 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C7 12pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C8 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C9 100pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C10 N.C.
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C11 0.8pF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component C12 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C13 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C14 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C15 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C16 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C17 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C18 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C19 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C20 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C21 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C22 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C23 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C24 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C25 
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C26 Cap
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C27 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C28 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C29 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component C30 Cap Semi
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C31 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C32 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C34 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C36 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C37 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C38 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C39 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C40 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C41 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb1 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb2 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb3 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb4 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb5 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb6 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb8 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb9 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb10 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb11 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb12 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb13 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb14 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb15 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb16 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb17 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb18 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb19 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb20 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb21 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb22 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb23 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb24 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb25 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb26 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb27 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb28 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb29 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb30 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb31 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb32 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb33 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb34 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb35 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb36 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb37 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb38 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb39 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb40 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb41 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb42 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb43 GRM033R6YA104KE14D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component CbA1 GRM188R61E106MA73D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cc1 GRM1555C1H120FA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cc2 GRM1555C1H120FA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce1 C1005X5R1C105M050BC
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce2 C1005X5R1C105M050BC
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce3 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component COch1 USB micro-B
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cs2 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component CW2 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component D1 LED3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component D2 LED3
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L2 L0603B100KDWFT
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L3 3.9nH
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component L4 Inductor
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component L5 Inductor
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component L6 SRN4026-220M
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED2 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED3 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED4 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component LED5 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R1 100K
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R2 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R3 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R4 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R5 
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component R7 
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc1 ERJ-1GEF1001C
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc2 ERJ-1GEF1002C
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc3 ERJ-2GE0R00X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc5 ERJ-PA2J330X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc6 ERJ-PA2J330X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc7 ERJ-2RKF1001X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Rc8 ERJ-2RKF1001X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Rc9 ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Rc10 ERJ-2RKF1100X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re2 DNI
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re3 ERJ-2RKF4990X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re4 ERJ-2RKF1002X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re5 ERJ-2BQF1R0X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re6 ERJ-2RKF1004X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re7 ERJ-2RKF2001X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re8 ERJ-2BQF1R0X
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component U1 LTC4065EDC#TRMPBF
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component U3 PLINK
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component U4 PLINK
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component U5 nRF52832-QFAA
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U6 TLV70237
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U7 TPS79333
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U8 TPS73218
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U9 TPS62261TDRVRQ1
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U10 LP5907QMFX-1.2
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component X2 ABS07AIG-32.768kHz-9-1-T
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX2 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX3 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component YW1 SIT1533AC-H5-DCC-32.768E
+Change Rule Scope 1 : Old Scope=HasPad('COch?-8') New Scope=HasPad('COch1-8')
+Change Rule Scope 1 : Old Scope=HasPad('COch?-9') New Scope=HasPad('COch1-9')
