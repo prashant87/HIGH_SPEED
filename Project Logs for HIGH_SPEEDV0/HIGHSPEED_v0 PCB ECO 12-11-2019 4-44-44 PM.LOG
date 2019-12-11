@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=D2-1
+Removed Pin From Net: NetName=VCC_5 Pin=R2-1
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=U3
+Added Component: Designator=D3(0603)
+Added Component: Designator=D4(0603)
+Added Component: Designator=R3(res_0402_R - modified)
+Added Component: Designator=R7(0402)
+Added Component: Designator=R7(0402)
+Added Component: Designator=YW2(SiT1533-C)
+Added Component: Designator=YW2(SiT1533-C)
+Added Component: Designator=YW2(SiT1533-C)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD4_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=VCC_5 Pin=R2-1
+Added Pin To Net: NetName=VDD_1V8 Pin=R7-2
+Added Pin To Net: NetName=VDD_1V8 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=YW2-2
+Added Pin To Net: NetName=GND Pin=YW2-2
+Added Pin To Net: NetName=VDD_1V8 Pin=YW2-4
+Added Pin To Net: NetName=VDD_1V8 Pin=YW2-4
+Added Pin To Net: NetName=VDD_1V8 Pin=YW2-4
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetD3_1 Pin=D1-1
+Added Pin To Net: NetName=NetD3_1 Pin=R2-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-51
+Added Pin To Net: NetName=NetR7_1 Pin=U5-10
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetU2_44 Pin=U2-44
+Added Pin To Net: NetName=NetU2_44 Pin=U5-7
+Added Net: Name=NetU2_44
+Added Pin To Net: NetName=NetU2_45 Pin=U2-45
+Added Pin To Net: NetName=NetU2_45 Pin=U5-4
+Added Net: Name=NetU2_45
+Added Pin To Net: NetName=NetU2_46 Pin=U2-46
+Added Pin To Net: NetName=NetU2_46 Pin=U5-8
+Added Net: Name=NetU2_46
+Added Pin To Net: NetName=NetU2_47 Pin=U2-47
+Added Pin To Net: NetName=NetU2_47 Pin=U5-5
+Added Net: Name=NetU2_47
+Added Pin To Net: NetName=NetU2_48 Pin=U2-48
+Added Pin To Net: NetName=NetU2_48 Pin=U5-6
+Added Net: Name=NetU2_48
+Added Pin To Net: NetName=NetU2_52 Pin=U2-52
+Added Pin To Net: NetName=NetU2_52 Pin=YW2-3
+Added Net: Name=NetU2_52
+Added Pin To Net: NetName=NetU4_44 Pin=U4-44
+Added Pin To Net: NetName=NetU4_44 Pin=U5-17
+Added Net: Name=NetU4_44
+Added Pin To Net: NetName=NetU4_45 Pin=U4-45
+Added Pin To Net: NetName=NetU4_45 Pin=U5-14
+Added Net: Name=NetU4_45
+Added Pin To Net: NetName=NetU4_46 Pin=U4-46
+Added Pin To Net: NetName=NetU4_46 Pin=U5-18
+Added Net: Name=NetU4_46
+Added Pin To Net: NetName=NetU4_47 Pin=U4-47
+Added Pin To Net: NetName=NetU4_47 Pin=U5-15
+Added Net: Name=NetU4_47
+Added Pin To Net: NetName=NetU4_48 Pin=U4-48
+Added Pin To Net: NetName=NetU4_48 Pin=U5-16
+Added Net: Name=NetU4_48
+Added Pin To Net: NetName=NetU4_52 Pin=U4-52
+Added Pin To Net: NetName=NetU4_52 Pin=YW2-3
+Added Net: Name=NetU4_52
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R7 NC
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component U3 PLINK
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component YW2 SIT1533AC-H5-DCC-32.768E

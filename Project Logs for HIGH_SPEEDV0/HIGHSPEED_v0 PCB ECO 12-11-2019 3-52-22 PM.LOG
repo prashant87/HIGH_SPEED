@@ -1,0 +1,198 @@
+Removed Pin From Net: NetName=DVDD Pin=C5-1
+Removed Pin From Net: NetName=DVDD Pin=C8-1
+Removed Pin From Net: NetName=DVDD Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=Cb1-1
+Removed Pin From Net: NetName=VDD_3V0 Pin=Cb1-2
+Removed Pin From Net: NetName=GND Pin=Cb2-1
+Removed Pin From Net: NetName=VDD_3V0 Pin=Cb2-2
+Removed Pin From Net: NetName=GND Pin=Cb3-1
+Removed Pin From Net: NetName=VDD_3V0 Pin=Cb3-2
+Removed Pin From Net: NetName=GND Pin=Cb4-1
+Removed Pin From Net: NetName=VDD_3V0 Pin=Cb4-2
+Removed Pin From Net: NetName=GND Pin=Cb8-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb8-2
+Removed Pin From Net: NetName=GND Pin=Cb9-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb9-2
+Removed Pin From Net: NetName=GND Pin=Cb10-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb10-2
+Removed Pin From Net: NetName=GND Pin=Cb11-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb11-2
+Removed Pin From Net: NetName=GND Pin=Cb12-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb12-2
+Removed Pin From Net: NetName=GND Pin=Cb13-1
+Removed Pin From Net: NetName=VDD_2V5 Pin=Cb13-2
+Removed Pin From Net: NetName=GND Pin=Cb32-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb32-2
+Removed Pin From Net: NetName=GND Pin=Cb33-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb33-2
+Removed Pin From Net: NetName=GND Pin=Cb34-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb34-2
+Removed Pin From Net: NetName=GND Pin=Cb35-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb35-2
+Removed Pin From Net: NetName=GND Pin=Cb36-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb36-2
+Removed Pin From Net: NetName=GND Pin=Cb37-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb37-2
+Removed Pin From Net: NetName=GND Pin=Cb38-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb38-2
+Removed Pin From Net: NetName=GND Pin=Cb39-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb39-2
+Removed Pin From Net: NetName=GND Pin=Cb40-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb40-2
+Removed Pin From Net: NetName=GND Pin=Cb41-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb41-2
+Removed Pin From Net: NetName=GND Pin=Cb42-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb42-2
+Removed Pin From Net: NetName=GND Pin=Cb43-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb43-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=CO1-4
+Removed Pin From Net: NetName=GND Pin=CO1-6
+Removed Pin From Net: NetName=GND Pin=CO1-8
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=VCC_5 Pin=R2-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R3-2
+Removed Pin From Net: NetName=VDD_2V5 Pin=Rc3-1
+Removed Pin From Net: NetName=GND Pin=Rc7-1
+Removed Pin From Net: NetName=GND Pin=Rc8-1
+Removed Pin From Net: NetName=DVDD Pin=U5-13
+Removed Pin From Net: NetName=DVDD Pin=U5-36
+Removed Pin From Net: NetName=DVDD Pin=U5-48
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb22
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb23
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb24
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb26
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb27
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb28
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb29
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb30
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb31
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb32
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb33
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb34
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb35
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb36
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb37
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb38
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb39
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb40
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb41
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb42
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb43
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=CO1
+Removed Member From Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=LED4
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=R4
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc3
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc5
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc6
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc7
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc8
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc10
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=RcA1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=RcB1
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=U3
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=U5
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=YW1
+Change Component Footprint: Designator=R1 Old Footprint=0402 New Footprint=res_0402_R - modified
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=Res3
+Change Component Designator: OldDesignator=Cb5 NewDesignator=Cb1
+Change Component Designator: OldDesignator=Cb6 NewDesignator=Cb2
+Change Component Designator: OldDesignator=Cb7 NewDesignator=Cb3
+Change Component Designator: OldDesignator=Cb22 NewDesignator=Cb4
+Change Component Designator: OldDesignator=Cb23 NewDesignator=Cb5
+Change Component Designator: OldDesignator=Cb24 NewDesignator=Cb6
+Change Component Designator: OldDesignator=Cb25 NewDesignator=Cb7
+Change Component Designator: OldDesignator=Cb26 NewDesignator=Cb8
+Change Component Designator: OldDesignator=Cb27 NewDesignator=Cb9
+Change Component Designator: OldDesignator=Cb28 NewDesignator=Cb10
+Change Component Designator: OldDesignator=Cb29 NewDesignator=Cb11
+Change Component Designator: OldDesignator=Cb30 NewDesignator=Cb12
+Change Component Designator: OldDesignator=Cb31 NewDesignator=Cb13
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Added Component: Designator=D3(0603)
+Added Component: Designator=D4(0603)
+Added Component: Designator=P1(HDR1X6)
+Added Component: Designator=R3(res_0402_R - modified)
+Added Pin To Net: NetName=VDD_1V8 Pin=C5-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C8-1
+Added Pin To Net: NetName=VDD_1V8 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VDD_1V8 Pin=P1-1
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=SWDCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetD2_1 Pin=R1-2
+Added Pin To Net: NetName=VCC_5 Pin=R2-1
+Added Pin To Net: NetName=VDD_1V8 Pin=U5-13
+Added Pin To Net: NetName=VDD_1V8 Pin=U5-36
+Added Pin To Net: NetName=VDD_1V8 Pin=U5-48
+Change Net Name : Old Net Name=CS_ADC# New Net Name=NetU5_15
+Change Net Name : Old Net Name=CS_NRF# New Net Name=NetU5_16
+Change Net Name : Old Net Name=JTAG.T\R\S\T\ New Net Name=NetU5_4
+Change Net Name : Old Net Name=JTAG.TCK New Net Name=NetU5_8
+Change Net Name : Old Net Name=JTAG.TDI New Net Name=NetU5_5
+Change Net Name : Old Net Name=JTAG.TDO New Net Name=NetU5_6
+Change Net Name : Old Net Name=JTAG.TMS New Net Name=NetU5_7
+Change Net Name : Old Net Name=MISO New Net Name=NetU5_17
+Change Net Name : Old Net Name=MOSI New Net Name=NetU5_18
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=P0.08 New Net Name=NetU5_10
+Change Net Name : Old Net Name=P0.09 New Net Name=NetU5_11
+Change Net Name : Old Net Name=P0.10 New Net Name=NetU5_12
+Change Net Name : Old Net Name=P0.11 New Net Name=NetU5_14
+Change Net Name : Old Net Name=P0.18 New Net Name=NetU5_21
+Change Net Name : Old Net Name=P0.19 New Net Name=NetU5_22
+Change Net Name : Old Net Name=P0.20 New Net Name=NetU5_23
+Change Net Name : Old Net Name=SCK New Net Name=NetU5_19
+Added Net: Name=JTAG.T\R\S\T\
+Added Net: Name=JTAG.TCK
+Added Net: Name=JTAG.TDI
+Added Net: Name=JTAG.TDO
+Added Net: Name=JTAG.TMS
+Added Pin To Net: NetName=NetD3_1 Pin=D1-1
+Added Pin To Net: NetName=NetD3_1 Pin=R2-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D2-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=U5-24
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U5-29
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U5-28
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetU5_20 Pin=U5-20
+Added Net: Name=NetU5_20
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component C35 100nF
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cc3 0201
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Ce4 GRM155R61H102KA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cs1 GRM188R61E106MA73D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cs2 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component CW1 4.7uF
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component D1 LED3
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component D2 LED3
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component L1 LQW15AN15NJ00D
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component LED1 Manufactrurer PN
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Ls1 
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component P1 Header 6
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R2 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component R8 
+Added Member To Class: ClassName=HIGHSPEED_v0_BATT-CHARGER Member=Component Re1 ERJ-PA2J151X
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component U2 PLINK
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U6 TLV70237
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U7 TPS79333
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U8 TPS73218
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component U9 TPS62261TDRVRQ1
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component XX1 0
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component YW2 SIT1533AC-H5-DCC-32.768E

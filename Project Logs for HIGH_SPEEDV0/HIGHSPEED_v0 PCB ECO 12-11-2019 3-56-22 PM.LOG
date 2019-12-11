@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=Ce2-1
+Removed Pin From Net: NetName=GND Pin=Ce4-1
+Removed Pin From Net: NetName=GND Pin=CObat1-2
+Removed Pin From Net: NetName=GND Pin=COch1-5
+Removed Pin From Net: NetName=GND Pin=COch2-2
+Removed Pin From Net: NetName=NetD4_1 Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=Re2-1
+Removed Pin From Net: NetName=GND Pin=Re5-1
+Removed Pin From Net: NetName=GND Pin=Re6-1
+Removed Pin From Net: NetName=GND Pin=Re7-1
+Removed Pin From Net: NetName=GND Pin=Re8-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=R7
+Added Component: Designator=D3(0603)
+Added Component: Designator=D4(0603)
+Added Component: Designator=R3(res_0402_R - modified)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD4_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VCC_5 Pin=R2-1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetD3_1 Pin=D1-1
+Added Pin To Net: NetName=NetD3_1 Pin=R2-2
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb3 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb4 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb5 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb6 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb8 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb9 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb10 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb11 GRM155R61H104KE19D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb12 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb13 GRM188R6YA475KE15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R6 
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component R7 NC
