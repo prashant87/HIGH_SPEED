@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD4_1 Pin=D2-1
+Removed Pin From Net: NetName=NetR19_1 Pin=R15-1
+Removed Pin From Net: NetName=NetP2_26 Pin=R15-2
+Removed Pin From Net: NetName=NetR20_1 Pin=R16-1
+Removed Pin From Net: NetName=NetP2_2 Pin=R16-2
+Removed Pin From Net: NetName=NetR21_1 Pin=R17-1
+Removed Pin From Net: NetName=NetP2_28 Pin=R17-2
+Removed Pin From Net: NetName=NetR22_1 Pin=R18-1
+Removed Pin From Net: NetName=NetP2_30 Pin=R18-2
+Removed Pin From Net: NetName=VDD_2V5 Pin=Rc1-2
+Removed Pin From Net: NetName=DVDD Pin=YW1-4
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=R43
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=R45
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=R45
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=R46
+Removed Member From Class: ClassName=HIGHSPEED_v0_RADIO Member=R46
+Removed Member From Class: ClassName=HIGHSPEED_v0_NM Member=R48
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=R48
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc1
+Added Component: Designator=D3(0603)
+Added Component: Designator=D4(0603)
+Added Component: Designator=R19(0402)
+Added Component: Designator=R20(0402)
+Added Component: Designator=R21(0402)
+Added Component: Designator=R22(0402)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD3_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD4_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R15-1
+Added Pin To Net: NetName=NetP2_26 Pin=R15-2
+Added Pin To Net: NetName=NetR20_1 Pin=R16-1
+Added Pin To Net: NetName=NetP2_2 Pin=R16-2
+Added Pin To Net: NetName=NetR21_1 Pin=R17-1
+Added Pin To Net: NetName=NetP2_28 Pin=R17-2
+Added Pin To Net: NetName=NetR22_1 Pin=R18-1
+Added Pin To Net: NetName=NetP2_30 Pin=R18-2
+Added Pin To Net: NetName=VDD_1V8 Pin=YW1-4
+Added Pin To Net: NetName=GND Pin=YW1-2
+Added Pin To Net: NetName=DVDD Pin=YW1-4
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Net: Name=NetU1_39
+Added Pin To Net: NetName=NetU1_40 Pin=U1-40
+Added Net: Name=NetU1_40
+Added Pin To Net: NetName=NetU1_41 Pin=U1-41
+Added Net: Name=NetU1_41
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Net: Name=NetU1_43
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R19 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R20 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R21 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R22 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R41 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component R42 Res3
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component R44 Res3

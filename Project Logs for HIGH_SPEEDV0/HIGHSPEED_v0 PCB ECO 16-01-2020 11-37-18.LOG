@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD4_1 Pin=D2-1
+Removed Pin From Net: NetName=DVDD Pin=YW1-4
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=P4
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R13
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R14
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R39
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R40
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R41
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R42
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R43
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=R44
+Added Component: Designator=D3(0603)
+Added Component: Designator=D4(0603)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD3_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD4_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=U3-17
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=VDD_1V8 Pin=YW1-4
+Added Pin To Net: NetName=GND Pin=YW1-2
+Added Pin To Net: NetName=DVDD Pin=YW1-4
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component P1 Header 16X2
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R2 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R3 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R4 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R5 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R6 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R7 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R8 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R10 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R11 0R
