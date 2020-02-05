@@ -1,0 +1,390 @@
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C39-2
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb4-2
+Removed Pin From Net: NetName=GND Pin=Cb5-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb5-2
+Removed Pin From Net: NetName=GND Pin=Cb6-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb6-2
+Removed Pin From Net: NetName=GND Pin=Cb7-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb7-2
+Removed Pin From Net: NetName=GND Pin=Cb8-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb8-2
+Removed Pin From Net: NetName=GND Pin=Cb9-1
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb9-2
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb11-2
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb12-2
+Removed Pin From Net: NetName=VDD_1V2 Pin=Cb13-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cb14-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cb17-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cb18-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cb19-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cb20-2
+Removed Pin From Net: NetName=GND Pin=CbA1-1
+Removed Pin From Net: NetName=GND Pin=CbA2-1
+Removed Pin From Net: NetName=GND Pin=CbB1-1
+Removed Pin From Net: NetName=GND Pin=Cc3-1
+Removed Pin From Net: NetName=GND Pin=P1-22
+Removed Pin From Net: NetName=GND Pin=P1-24
+Removed Pin From Net: NetName=GND Pin=P2-22
+Removed Pin From Net: NetName=GND Pin=P2-24
+Removed Pin From Net: NetName=GND Pin=P3-22
+Removed Pin From Net: NetName=GND Pin=P3-24
+Removed Pin From Net: NetName=NetP1_26 Pin=R3-1
+Removed Pin From Net: NetName=NetP1_28 Pin=R4-1
+Removed Pin From Net: NetName=NetP1_30 Pin=R6-1
+Removed Pin From Net: NetName=NetP1_32 Pin=R8-1
+Removed Pin From Net: NetName=NetP2_26 Pin=R19-2
+Removed Pin From Net: NetName=NetP2_28 Pin=R21-2
+Removed Pin From Net: NetName=NetP2_30 Pin=R22-2
+Removed Pin From Net: NetName=NetP3_26 Pin=R25-1
+Removed Pin From Net: NetName=NetP2_32 Pin=R26-2
+Removed Pin From Net: NetName=NetP3_28 Pin=R28-1
+Removed Pin From Net: NetName=NetP3_30 Pin=R31-1
+Removed Pin From Net: NetName=NetP3_32 Pin=R34-1
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U1-16
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U1-18
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U1-55
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U1-56
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U2-16
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U2-18
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U2-55
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U2-56
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U3-16
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=U3-18
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U3-55
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=U3-56
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C34
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C35
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C36
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C37
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C38
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=C39
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb2
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb3
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb4
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb5
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb6
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb7
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb8
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb9
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb10
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb11
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb12
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb13
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb14
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb15
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb16
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb17
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb18
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb19
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb20
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Cb21
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=CbA1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=CbA2
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=CbB1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Cc1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Cc2
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Cc3
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Rc1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Y1
+Change Component Footprint: Designator=Cb1 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb2 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb3 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb4 Old Footprint=C0402-MURATA-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb10 Old Footprint=C0402-MURATA-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb11 Old Footprint=C0402-MURATA-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb14 Old Footprint=C0402-MURATA-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb15 Old Footprint=C0402-MURATA-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb16 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb17 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb18 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb19 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=Cb20 Old Footprint=c0402-Murata-GR New Footprint=c0603-Murata-GR
+Change Component Footprint: Designator=U1 Old Footprint=QFN56_M New Footprint=QFN56_M
+Change Component Comment : Designator=Cb1 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb2 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb3 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb4 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb10 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb11 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb14 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb15 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb16 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb17 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb18 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb19 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb20 Old Comment=GRM155R61H104KE19D New Comment=GRM187R61A226ME15D
+Change Component Comment : Designator=Cb13 Old Comment=GRM188R6YA475KE15D New Comment=GRM187R61A226ME15D
+Change Component Description : Designator=Cb13 Old Description=CAP CER 4.7UF 35V X5R 0603 New Description=CAP CER 22UF 10V X5R 0603
+Change Component Library : Designator=Cb13 Old Library=Custom.IntLib New Library=Custom.SchLib
+Added Component: Designator=Cb22(c0603-Murata-GR)
+Added Component: Designator=Cb23(c0603-Murata-GR)
+Added Component: Designator=Cb24(c0603-Murata-GR)
+Added Component: Designator=Cb25(c0603-Murata-GR)
+Added Component: Designator=Cb26(c0603-Murata-GR)
+Added Component: Designator=Cb27(c0603-Murata-GR)
+Added Component: Designator=Cb28(c0603-Murata-GR)
+Added Component: Designator=Cb29(c0603-Murata-GR)
+Added Component: Designator=Cb30(c0603-Murata-GR)
+Added Component: Designator=Cb31(c0603-Murata-GR)
+Added Component: Designator=Cb32(c0603-Murata-GR)
+Added Component: Designator=Cb33(c0603-Murata-GR)
+Added Component: Designator=Cb34(c0603-Murata-GR)
+Added Component: Designator=Cb35(c0603-Murata-GR)
+Added Component: Designator=Cb36(c0603-Murata-GR)
+Added Component: Designator=Cb37(c0603-Murata-GR)
+Added Component: Designator=Cb38(c0603-Murata-GR)
+Added Component: Designator=Cb39(c0603-Murata-GR)
+Added Component: Designator=Cb40(c0603-Murata-GR)
+Added Component: Designator=Cb41(c0603-Murata-GR)
+Added Component: Designator=Cb42(c0603-Murata-GR)
+Added Component: Designator=Cb43(c0603-Murata-GR)
+Added Component: Designator=Cb44(c0603-Murata-GR)
+Added Component: Designator=Cb45(c0603-Murata-GR)
+Added Component: Designator=Cb46(c0603-Murata-GR)
+Added Component: Designator=L9(BOUR-IND-SRN4026)
+Added Component: Designator=R51(J1-0603)
+Added Component: Designator=R52(J1-0603)
+Added Component: Designator=R53(J1-0603)
+Added Component: Designator=R54(J1-0603)
+Added Component: Designator=R55(J1-0603)
+Added Component: Designator=R56(J1-0603)
+Added Component: Designator=R57(J1-0603)
+Added Component: Designator=R58(J1-0603)
+Added Component: Designator=R59(J1-0603)
+Added Component: Designator=R60(J1-0603)
+Added Component: Designator=R61(J1-0603)
+Added Component: Designator=R62(J1-0603)
+Added Component: Designator=R63(J1-0603)
+Added Component: Designator=R64(J1-0603)
+Added Component: Designator=R65(J1-0603)
+Added Component: Designator=R66(J1-0603)
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb1-2
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb2-2
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb3-2
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb4-2
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=Cb11-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb12-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb13-2
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb14-2
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb17-2
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb18-2
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb19-2
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb20-2
+Added Pin To Net: NetName=GND Pin=Cb22-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb22-2
+Added Pin To Net: NetName=GND Pin=Cb23-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb23-2
+Added Pin To Net: NetName=GND Pin=Cb24-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb24-2
+Added Pin To Net: NetName=GND Pin=Cb25-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb25-2
+Added Pin To Net: NetName=GND Pin=Cb26-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb26-2
+Added Pin To Net: NetName=GND Pin=Cb27-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=Cb27-2
+Added Pin To Net: NetName=GND Pin=Cb28-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=Cb28-2
+Added Pin To Net: NetName=GND Pin=Cb29-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb29-2
+Added Pin To Net: NetName=GND Pin=Cb30-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb30-2
+Added Pin To Net: NetName=GND Pin=Cb31-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb31-2
+Added Pin To Net: NetName=GND Pin=Cb32-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb32-2
+Added Pin To Net: NetName=GND Pin=Cb33-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb33-2
+Added Pin To Net: NetName=GND Pin=Cb34-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb34-2
+Added Pin To Net: NetName=GND Pin=Cb35-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb35-2
+Added Pin To Net: NetName=GND Pin=Cb36-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb36-2
+Added Pin To Net: NetName=GND Pin=Cb37-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb37-2
+Added Pin To Net: NetName=GND Pin=Cb38-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb38-2
+Added Pin To Net: NetName=GND Pin=Cb39-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb39-2
+Added Pin To Net: NetName=GND Pin=Cb40-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb40-2
+Added Pin To Net: NetName=GND Pin=Cb41-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb41-2
+Added Pin To Net: NetName=GND Pin=Cb42-1
+Added Pin To Net: NetName=VDD_1V8 Pin=Cb42-2
+Added Pin To Net: NetName=GND Pin=Cb43-1
+Added Pin To Net: NetName=VDD_1V2 Pin=Cb43-2
+Added Pin To Net: NetName=GND Pin=Cb44-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=Cb44-2
+Added Pin To Net: NetName=GND Pin=Cb45-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=Cb45-2
+Added Pin To Net: NetName=GND Pin=Cb46-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=Cb46-2
+Added Pin To Net: NetName=NetP1_26 Pin=R6-1
+Added Pin To Net: NetName=NetP1_28 Pin=R8-1
+Added Pin To Net: NetName=NetP2_26 Pin=R22-2
+Added Pin To Net: NetName=NetP2_28 Pin=R26-2
+Added Pin To Net: NetName=NetP3_26 Pin=R31-1
+Added Pin To Net: NetName=NetP3_28 Pin=R34-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R51-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R52-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=R53-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R54-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R55-2
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R57-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R58-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R59-1
+Added Pin To Net: NetName=VDD_1V2_DGITAL Pin=R60-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=R61-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=R62-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R63-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R64-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R65-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R66-2
+Added Pin To Net: NetName=VDD_1V2 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=NetP1_32 Pin=U1-49
+Added Pin To Net: NetName=NetP1_30 Pin=U1-50
+Added Pin To Net: NetName=VDD_1V2 Pin=U2-12
+Added Pin To Net: NetName=NetP2_32 Pin=U2-49
+Added Pin To Net: NetName=NetP2_30 Pin=U2-50
+Added Pin To Net: NetName=VDD_1V2 Pin=U3-12
+Added Pin To Net: NetName=NetP3_32 Pin=U3-49
+Added Pin To Net: NetName=NetP3_30 Pin=U3-50
+Added Pin To Net: NetName=NetP1_22 Pin=P1-22
+Added Pin To Net: NetName=NetP1_22 Pin=R3-1
+Added Net: Name=NetP1_22
+Added Pin To Net: NetName=NetP1_24 Pin=P1-24
+Added Pin To Net: NetName=NetP1_24 Pin=R4-1
+Added Net: Name=NetP1_24
+Added Pin To Net: NetName=NetP2_22 Pin=P2-22
+Added Pin To Net: NetName=NetP2_22 Pin=R19-2
+Added Net: Name=NetP2_22
+Added Pin To Net: NetName=NetP2_24 Pin=P2-24
+Added Pin To Net: NetName=NetP2_24 Pin=R21-2
+Added Net: Name=NetP2_24
+Added Pin To Net: NetName=NetP3_22 Pin=P3-22
+Added Pin To Net: NetName=NetP3_22 Pin=R25-1
+Added Net: Name=NetP3_22
+Added Pin To Net: NetName=NetP3_24 Pin=P3-24
+Added Pin To Net: NetName=NetP3_24 Pin=R28-1
+Added Net: Name=NetP3_24
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=U1-56
+Added Net: Name=NetR51_2
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=U1-55
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U1-5
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U1-16
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U1-18
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=U3-56
+Added Net: Name=NetR57_2
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=U3-55
+Added Net: Name=NetR58_2
+Added Pin To Net: NetName=NetR59_2 Pin=R59-2
+Added Pin To Net: NetName=NetR59_2 Pin=U2-55
+Added Net: Name=NetR59_2
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=U2-56
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=U2-5
+Added Net: Name=NetR61_2
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=U3-5
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=U2-16
+Added Net: Name=NetR63_2
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=U3-16
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetR65_2 Pin=U2-18
+Added Net: Name=NetR65_2
+Added Pin To Net: NetName=NetR66_1 Pin=R66-1
+Added Pin To Net: NetName=NetR66_1 Pin=U3-18
+Added Net: Name=NetR66_1
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb1 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb2 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb3 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb4 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb10 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb11 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb12 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb13 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb14 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb15 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb16 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component Cb17 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb18 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb19 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb20 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb21 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb22 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb23 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb24 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb25 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb26 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb27 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb28 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb29 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb30 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb31 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb32 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb33 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb34 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb35 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb36 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb37 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb38 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb39 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb40 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component Cb41 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb42 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb43 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb44 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb45 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=Component Cb46 GRM187R61A226ME15D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Cc1 GRM1555C1H120FA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Cc2 GRM1555C1H120FA01D
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component L9 SRN4026-220M
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R51 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R52 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R53 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R54 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R55 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Component R56 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R57 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R58 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R59 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R60 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R61 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R62 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R63 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R64 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R65 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_NM Member=Component R66 0R
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component Y1 NX2520SA-20.000000MHZ
