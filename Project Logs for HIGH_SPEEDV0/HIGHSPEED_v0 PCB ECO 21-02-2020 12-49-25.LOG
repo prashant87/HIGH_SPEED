@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-COMM Member=Cc2
+Change Net Name : Old Net Name=NetU2_7 New Net Name=TX_N
+Change Net Name : Old Net Name=NetU2_8 New Net Name=TX_P
+Added Differential Pair: Name=TX

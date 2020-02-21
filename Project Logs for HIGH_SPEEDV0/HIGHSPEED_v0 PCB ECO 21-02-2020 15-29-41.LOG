@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RX_N Pin=U2-9
+Added Pin To Net: NetName=RX_N Pin=U3-7
+Added Net: Name=RX_N
+Added Pin To Net: NetName=RX_P Pin=U2-10
+Added Pin To Net: NetName=RX_P Pin=U3-8
+Added Net: Name=RX_P
+Added Differential Pair: Name=RX
