@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VDD_1V2_FLL Pin=Cb27-2
+Removed Pin From Net: NetName=VDD_1V2_FLL Pin=Cb28-2
+Removed Pin From Net: NetName=VDD_1V2_FLL Pin=R62-1
+Added Pin To Net: NetName=VDD_1V2_FLL Pin=R62-2
+Added Pin To Net: NetName=NetCb27_2 Pin=Cb27-2
+Added Pin To Net: NetName=NetCb27_2 Pin=R61-2
+Added Pin To Net: NetName=NetCb27_2 Pin=U2-5
+Added Net: Name=NetCb27_2
+Added Pin To Net: NetName=NetCb28_2 Pin=Cb28-2
+Added Pin To Net: NetName=NetCb28_2 Pin=R62-1
+Added Pin To Net: NetName=NetCb28_2 Pin=U3-5
+Added Net: Name=NetCb28_2
