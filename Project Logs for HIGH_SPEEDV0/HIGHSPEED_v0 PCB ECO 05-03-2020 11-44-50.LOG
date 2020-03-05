@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=Cb32-2
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=Cb33-2
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=R64-2
+Removed Pin From Net: NetName=VDD_1V2_ANALOG Pin=R66-2
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R64-1
+Added Pin To Net: NetName=VDD_1V2_ANALOG Pin=R66-1
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=NetCb32_2 Pin=Cb32-2
+Added Pin To Net: NetName=NetCb32_2 Pin=R66-2
+Added Pin To Net: NetName=NetCb32_2 Pin=U3-18
+Added Net: Name=NetCb32_2
+Added Pin To Net: NetName=NetCb33_2 Pin=Cb33-2
+Added Pin To Net: NetName=NetCb33_2 Pin=R64-2
+Added Pin To Net: NetName=NetCb33_2 Pin=U3-16
+Added Net: Name=NetCb33_2

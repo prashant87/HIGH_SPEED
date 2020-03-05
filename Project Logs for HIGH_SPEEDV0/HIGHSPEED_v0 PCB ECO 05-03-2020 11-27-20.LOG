@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=Cb18-2
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=Cb19-2
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=Cb24-2
+Removed Pin From Net: NetName=VDD_1V2_DGITAL Pin=Cb25-2
+Added Pin To Net: NetName=NetCb18_2 Pin=Cb18-2
+Added Pin To Net: NetName=NetCb18_2 Pin=R60-2
+Added Pin To Net: NetName=NetCb18_2 Pin=U2-56
+Added Net: Name=NetCb18_2
+Added Pin To Net: NetName=NetCb19_2 Pin=Cb19-2
+Added Pin To Net: NetName=NetCb19_2 Pin=R59-2
+Added Pin To Net: NetName=NetCb19_2 Pin=U2-55
+Added Net: Name=NetCb19_2
+Added Pin To Net: NetName=NetCb24_2 Pin=Cb24-2
+Added Pin To Net: NetName=NetCb24_2 Pin=R58-2
+Added Pin To Net: NetName=NetCb24_2 Pin=U3-55
+Added Net: Name=NetCb24_2
+Added Pin To Net: NetName=NetCb25_2 Pin=Cb25-2
+Added Pin To Net: NetName=NetCb25_2 Pin=R57-2
+Added Pin To Net: NetName=NetCb25_2 Pin=U3-56
+Added Net: Name=NetCb25_2

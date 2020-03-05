@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R3-1
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=D6
+Removed Member From Class: ClassName=HIGHSPEED_v0_SF2-POWER Member=R3
