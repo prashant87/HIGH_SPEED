@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\simon\Documents\ALTIUM\HIGH_SPEED\HIGHSPEED_v0.PcbDoc
-Date     : 3/10/2020
-Time     : 11:24:55 PM
+Date     : 4/1/2020
+Time     : 3:36:06 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (InPadClass('Pad_Class')),(IsTrack)
 Rule Violations :0
@@ -10,8 +10,7 @@ Processing Rule : Rule
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (2110mil,920mil)(2153mil,920mil)  Top Layer
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
 Rule Violations :0
@@ -32,31 +31,13 @@ Processing Rule : Hole Size Constraint (Min=2mil) (Max=100000mil) (All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net RX_P Between Pad R2-1 (2008,896.528mil) And Track on layer Top Layer (2043.842,876.842mil)
-   Violation between Un-Routed Net Constraint: Net RX_N Between Pad R2-2 (2008,837.472mil) And Track on layer Top Layer (2051.027,857.158mil)
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=4mil) (MaxHoleWidth=10mil) (PreferredHoleWidth=6mil) (MinWidth=9mil) (MaxWidth=20mil) (PreferedWidth=14mil) (All)
-   Violation between Routing Via Style: Via (1316.134mil,2624.866mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1363.378mil,2624.866mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1410.622mil,2624.866mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1457.866mil,2624.866mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1316.134mil,2577.622mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1363.378mil,2577.622mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1410.622mil,2577.622mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1457.866mil,2577.622mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1316.134mil,2530.378mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1363.378mil,2530.378mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1410.622mil,2530.378mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1457.866mil,2530.378mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1316.134mil,2483.134mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1363.378mil,2483.134mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1410.622mil,2483.134mil) Top Layer to Bottom Layer
-   Violation between Routing Via Style: Via (1457.866mil,2483.134mil) Top Layer to Bottom Layer
-Rule Violations :16
+Processing Rule : Routing Via (MinHoleWidth=4mil) (MaxHoleWidth=20mil) (PreferredHoleWidth=6mil) (MinWidth=9mil) (MaxWidth=30mil) (PreferedWidth=14mil) (All)
+Rule Violations :0
 
 Processing Rule : Routing Layers(All)
 Rule Violations :0
@@ -95,5 +76,5 @@ Processing Rule : Clearance Constraint (Gap=4mil) (IsKeepOut),(All)
 Rule Violations :0
 
 
-Violations Detected : 19
-Time Elapsed        : 00:00:02
+Violations Detected : 0
+Time Elapsed        : 00:00:04

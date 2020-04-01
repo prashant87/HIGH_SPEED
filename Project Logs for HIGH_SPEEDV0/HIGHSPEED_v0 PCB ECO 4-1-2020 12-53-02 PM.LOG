@@ -1,0 +1,11 @@
+Added Component: Designator=L9(BOUR-IND-SRN4026)
+Added Component: Designator=P1(HDR1X6)
+Added Pin To Net: NetName=P0.31/AIN7 Pin=P1-1
+Added Pin To Net: NetName=P0.30/AIN6 Pin=P1-2
+Added Pin To Net: NetName=P0.29/AIN5 Pin=P1-3
+Added Pin To Net: NetName=P0.28/AIN4 Pin=P1-4
+Added Pin To Net: NetName=P0.27 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Change Net Name : Old Net Name=NetP4_5 New Net Name=P0.21/RESET
+Added Member To Class: ClassName=HIGHSPEED_v0_SF2_DDR Member=Component L9 SRN4026-220M
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component P1 Header 6
