@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\simon\Documents\ALTIUM\HIGH_SPEED\HIGHSPEED_v0.PcbDoc
-Date     : 4/1/2020
-Time     : 3:36:06 PM
+Date     : 4/22/2020
+Time     : 12:51:48 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (InPadClass('Pad_Class')),(IsTrack)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=4mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=2mil) (Max=20mil) (Prefered=9mil)  and Width Constraints (Min=6mil) (Max=15mil) (Prefered=10mil) (All)
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=11mil) (Prefered=10mil)  and Width Constraints (Min=6mil) (Max=6mil) (Prefered=6mil) (All)
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
@@ -77,4 +77,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:05

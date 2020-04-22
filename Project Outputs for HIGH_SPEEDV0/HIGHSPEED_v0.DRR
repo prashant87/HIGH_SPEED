@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HIGHSPEED_v0.PcbDoc   4/15/2020  7:02:16 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : HIGHSPEED_v0-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        4mil (0.1016mm)          Round          5                2.28 Inch (57.89 mm)
+T2        6mil (0.1524mm)          Round          144              23.10 Inch (586.67 mm)
+T3        7.87mil (0.1999mm)       Round          72               3.86 Inch (98.02 mm)
+T4        10mil (0.254mm)          Round          69               15.05 Inch (382.32 mm)
+T5        12.99mil (0.32995mm)     Round          16               0.71 Inch (18.00 mm)
+T6        35.43mil (0.89992mm)     Round          78               17.27 Inch (438.60 mm)
+---------------------------------------------------------------------------
+Totals                                            384              62.26 Inch (1581.51 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
