@@ -1,0 +1,4 @@
+Added Component: Designator=X2(XTAL_3215)
+Added Pin To Net: NetName=P0.00/XL1 Pin=X2-1
+Added Pin To Net: NetName=P0.01/XL2 Pin=X2-2
+Added Member To Class: ClassName=HIGHSPEED_v0_RADIO Member=Component X2 ABS07AIG-32.768kHz-9-1-T

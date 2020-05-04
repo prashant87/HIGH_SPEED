@@ -1,80 +1,162 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\simon\Documents\ALTIUM\HIGH_SPEED\HIGHSPEED_v0.PcbDoc
-Date     : 4/22/2020
-Time     : 12:51:48 PM
+Date     : 5/4/2020
+Time     : 5:22:48 PM
 
-Processing Rule : Clearance Constraint (Gap=4mil) (InPadClass('Pad_Class')),(IsTrack)
+Processing Rule : Clearance Constraint (Gap=4mil) (IsKeepOut),(All)
 Rule Violations :0
 
-Processing Rule : Rule
+Processing Rule : Clearance Constraint (Gap=6mil) (IsVia),(IsVia)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Clearance Constraint (Gap=6mil) (IsPad),(IsVia)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (IsPad),(IsPad)
+   Violation between Pad YW3-3(1637.543mil,564mil)  Top Layer and 
+                     Pad YW3-4(1612.937mil,581.716mil)  Top Layer
+   Violation between Pad YW3-1(1580.457mil,564mil)  Top Layer and 
+                     Pad YW3-2(1605.063mil,546.284mil)  Top Layer
+   Violation between Pad YW2-3(2290.457mil,573mil)  Bottom Layer and 
+                     Pad YW2-4(2315.063mil,590.716mil)  Bottom Layer
+   Violation between Pad YW2-1(2347.543mil,573mil)  Bottom Layer and 
+                     Pad YW2-2(2322.937mil,555.284mil)  Bottom Layer
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=6mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsVia)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsPad)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=4mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) ((InLayerClass('Signal Layers') AND IsTrack)),((InLayerClass('Signal Layers') AND IsTrack))
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=11mil) (Prefered=10mil)  and Width Constraints (Min=6mil) (Max=6mil) (Prefered=6mil) (All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=2mil) (Max=100000mil) (All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Routing Via (MinHoleWidth=4mil) (MaxHoleWidth=20mil) (PreferredHoleWidth=6mil) (MinWidth=9mil) (MaxWidth=30mil) (PreferedWidth=14mil) (All)
-Rule Violations :0
-
-Processing Rule : Routing Layers(All)
-Rule Violations :0
-
-Processing Rule : Routing Layers(All)
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=6mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=3mil) (Max=50mil) (Preferred=4mil) (All)
+Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) ((InLayerClass('Signal Layers') AND IsTrack)),((InLayerClass('Signal Layers') AND IsTrack))
+Processing Rule : Routing Via (MinHoleWidth=8mil) (MaxHoleWidth=20mil) (PreferredHoleWidth=8mil) (MinWidth=16mil) (MaxWidth=30mil) (PreferedWidth=16mil) (All)
+   Violation between Routing Via Style: Via (1489.732mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,975.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1489.732mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,931.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1489.732mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,888.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1489.732mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,845.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1489.732mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,802.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1489.732mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1533.039mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1576.346mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1619.653mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1662.961mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (1706.268mil,758.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,763.732mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,807.039mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,850.346mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,893.654mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,936.961mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2230.732mil,980.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2274.039mil,980.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2317.347mil,980.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2360.654mil,980.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2403.961mil,980.268mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (2447.268mil,980.268mil) Top Layer to Bottom Layer
+Rule Violations :72
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsPad)
+Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) ((InLayerClass('Signal Layers') AND IsTrack)),(IsVia)
+Processing Rule : Hole Size Constraint (Min=2mil) (Max=100000mil) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (IsPad),(IsPad)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (IsPad),(IsVia)
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=9.8mil) (Max=11mil) (Prefered=10mil)  and Width Constraints (Min=6mil) (Max=6mil) (Prefered=6mil) (All)
+   Violation between Differential Pairs Routing Between Net TX_P And Net TX_N
+   Violation between Differential Pairs Routing Between Net RX_P And Net RX_N
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=4mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (IsVia),(IsVia)
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (IsKeepOut),(All)
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (InPadClass('Pad_Class')),(IsTrack)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 78
 Time Elapsed        : 00:00:05
