@@ -1,6 +1,0 @@
-Added Component: Designator=*(JMP4)
-Added Pin To Net: NetName=Net*_1 Pin=*-1
-Added Pin To Net: NetName=GND Pin=*-2
-Added Pin To Net: NetName=Net*_3 Pin=*-3
-Added Pin To Net: NetName=DVDD Pin=*-4
-Added Member To Class: ClassName=POWER Member=Component * JUMP4

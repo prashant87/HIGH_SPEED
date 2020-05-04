@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=DVDD Pin=J1-1
-Removed Pin From Net: NetName=GND Pin=J1-3
-Removed Member From Class: ClassName=01_MRWOLF Member=J1
-Added Pin To Net: NetName=DVDD Pin=U1-1
-Change Net Name : Old Net Name=DVDD New Net Name=BOOTSEL
-Added Member To Class: ClassName=03_ANALOG Member=Component ADC1 ADS1298

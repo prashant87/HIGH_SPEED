@@ -1,5 +1,0 @@
-Added Component: Designator=J1(JMP3)
-Added Pin To Net: NetName=V1.8 Pin=J1-1
-Added Pin To Net: NetName=BOOTSEL Pin=J1-2
-Added Pin To Net: NetName=GND Pin=J1-3
-Added Member To Class: ClassName=MRWOLF Member=Component J1 JUMP3

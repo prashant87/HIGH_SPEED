@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C46-1
-Removed Pin From Net: NetName=RF Pin=C46-2
-Removed Member From Class: ClassName=NRF52832 Member=C46
-Added Net: Name=NetC1_1

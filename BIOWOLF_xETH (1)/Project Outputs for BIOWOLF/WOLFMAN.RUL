@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\javie\OneDrive\PhD Unibo\Projects\BioWolf and Connectors\BIOWOLF_xETH\WOLFMAN.PcbDoc
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,9 +1,0 @@
-Added Component: Designator=SW(MOLEX_5051100692)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=DGND Pin=SW-1
-Added Pin To Net: NetName=DVDD Pin=SW-2
-Added Pin To Net: NetName=P0.21/RESET Pin=SW-3
-Added Pin To Net: NetName=SWDCLK Pin=SW-4
-Added Pin To Net: NetName=SWDIO Pin=SW-5
-Added Pin To Net: NetName=DGND Pin=SW-6
-Added Member To Class: ClassName=02_NRF52832 Member=Component SW MOLEX_5051100592
